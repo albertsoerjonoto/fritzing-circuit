@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="171.72679" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="400.05048" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg14351" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="schematic">
+  <defs id="defs14353"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" showborder="true" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" showguides="true" fit-margin-right="0"/>
+  <metadata id="metadata14356">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="g3180">
+   <g id="g3123">
+    <rect width="104.15277" x="33.862003" y="32.504612" height="334.11362" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect4184"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-9" d="M 32.439034,74.27923 1.5,74.27923"/>
+    <text x="38.635418" y="78.455078" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002">AFER</text>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858" d="M 32.439034,226.999 1.5,226.999"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-5" d="m 32.439034,249.21237 -30.939034,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-7" d="m 32.439034,271.42574 -30.939034,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-6" d="m 32.439034,293.63911 -30.939034,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-1" d="m 32.439034,315.85248 -30.939034,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-8" d="m 32.439034,338.06585 -30.939034,0"/>
+    <text x="38.635418" y="229.30447" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8">A0</text>
+    <text x="38.635418" y="251.82312" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-3">A1</text>
+    <text x="38.635418" y="274.34952" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-4">A2</text>
+    <text x="38.635418" y="296.87592" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-0">A3</text>
+    <text x="38.635418" y="319.41003" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-1">A4</text>
+    <text x="38.635418" y="341.92871" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-49">A5</text>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path6118" d="m 113.3948,32.626064 0,-30.9141729"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path6118-3" d="m 82.707406,32.414173 0,-30.914173"/>
+    <text x="120.34839" y="53.304474" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-2">D0</text>
+    <text x="120.34839" y="75.421669" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-35">D1</text>
+    <text x="120.34839" y="97.546616" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-40">D2</text>
+    <text x="120.34839" y="119.67152" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-6">D3</text>
+    <text x="120.34839" y="141.80421" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-61">D4</text>
+    <text x="120.34839" y="163.9214" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-42">D5</text>
+    <text x="120.34839" y="186.04636" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-9">D6</text>
+    <text x="120.34839" y="208.1713" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-7">D7</text>
+    <text x="120.34839" y="230.2962" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-60">D8</text>
+    <text x="120.34839" y="252.42888" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-65">D9</text>
+    <text x="115.64638" y="274.55383" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-41">D10</text>
+    <text x="115.65413" y="296.67099" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-01">D11</text>
+    <text x="115.63089" y="318.79596" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-07">D12</text>
+    <text x="115.62314" y="340.9209" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6356">D13</text>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-2" d="m 170.16433,50.957421 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-79" d="m 170.16433,73.065292 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-54" d="m 170.16433,95.173169 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-793" d="m 170.16433,117.28105 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-5-1" d="m 170.16433,139.38893 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-7-9" d="m 170.16433,161.4968 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-6-8" d="m 170.16433,183.60468 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-1-6" d="m 170.16433,205.71256 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-8-5" d="m 170.16433,227.82043 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-9-0" d="m 170.16433,249.92831 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-2-2" d="m 170.16433,272.03618 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-79-8" d="m 170.16433,294.14406 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-54-6" d="m 170.16433,316.25194 -30.77299,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3.12492943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-54-9" d="m 170.16433,338.35981 -30.77297,0"/>
+    <text x="75.126938" y="45.138672" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-78">VIN</text>
+    <text x="107.40408" y="45.138672" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-12">5V</text>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path6118-7" d="m 87.395044,398.55048 0,-30.89407"/>
+    <text x="82.082268" y="362.44797" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-64">GND</text>
+    <text x="133.43633" y="-96.026268" style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3065" transform="matrix(0,1,-1,0,0,0)">Arduino</text>
+    <text x="133.43633" y="-72.890678" style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3141" transform="matrix(0,1,-1,0,0,0)">Input Shield</text>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4858-9-1" d="M 32.439034,93.87869 1.5,93.87869"/>
+    <text x="38.635418" y="98.054527" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-7">RST</text>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path6118-3-1" d="m 52.020012,32.497159 0,-30.9141726"/>
+    <text x="44.636917" y="45.138672" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6002-8-78-7">3V3</text>
+   </g>
+  </g>
+  <rect width="30.87411765905179" x="1.556467253308028" y="336.5259509755944" fill="none" height="3.597100518862249" id="connector1pad-4-2-34-7-1"/>
+  <rect width="3.173964441881253" x="85.84839443928385" y="367.9925780625241" fill="none" height="30.83649197058168" id="connector1pad-4-5-0-39-4"/>
+  <rect width="30.65563014917777" x="139.5958730544606" y="204.0333409719304" fill="none" height="3.354928981392163" id="connector1pad-4-5-0-3-1-5-1"/>
+  <rect width="5" x="149.1159414263903" y="304.4198855476997" fill="none" height="5"/>
+  <rect width="3.158963881165136" x="85.86339499999997" y="367.9112091460003" fill="none" height="30.59474797851425" id="connector1pad-0-1-1-4"/>
+  <rect width="30.6867769260322" x="139.7485570132872" y="204.2345206465293" fill="none" height="3.33758004247423" id="connector1pad-4-5-0-3-1-5-2"/>
+  <rect width="30.74196669469441" x="1.363612291755914" y="72.75660841512936" fill="none" height="3.078689263855239" id="connector1pad-4-5-0-3-1-5-3"/>
+  <rect width="30.94873465871186" x="1.72227183210623" y="314.1086509434337" fill="none" height="3.483745811476524" id="connector1pad-0-1-1-4-3"/>
+  <rect width="3.286493284820978" x="85.89742205063971" y="368.0186952848063" fill="none" height="30.48726183970831" id="connector1pad-0-1-9-9-4-31"/>
+  <rect width="30.19528369458328" x="1.714083432880244" y="292.0060752741829" fill="none" height="3.194124198103282" id="connector1pad-4-5-0-39-4-5"/>
+  <rect width="30.94522139540902" x="139.4901125439103" y="181.950394410441" fill="none" height="3.194356525487251" id="connector1pad-0-1-9-9-4-33"/>
+  <rect width="30.25179346476548" x="139.8158790031919" y="292.5952849712928" fill="none" height="3.215568844564132" id="connector1pad-0-1-1-48"/>
+  <rect width="3.188636726457332" x="50.51418005546211" y="1.242545733544944" fill="none" height="29.85204870175164" id="connector1pad-0-1-9-9-0"/>
+  <rect width="3.353820318003329" x="85.83009501745735" y="367.8364830992335" fill="none" height="30.83103047957667" id="connector1pad-0-1-9-9-4"/>
+  <rect width="3.136400367875353" x="81.08231853708091" y="1.264326678106443" fill="none" height="29.6464370215092" id="connector1pad-4-2-34-7"/>
+  <rect width="31.5950874369295" x="139.9432309164755" y="270.2271791692158" fill="none" height="3.891647836289678" id="connector1pad-4-2-34-9"/>
+  <rect width="30.8047630070229" x="139.8144016679774" y="248.2817363256835" fill="none" height="2.858248719703909" id="connector1pad-47-4-0"/>
+  <rect width="30.16357143496131" x="139.9041010329961" y="226.0887867898284" fill="none" height="3.543002180888493" id="connector1pad-4-5-9-4"/>
+  <rect width="31.2202288313232" x="139.582766579358" y="137.7019990566879" fill="none" height="3.507206051494535"/>
+  <rect width="30.81639214691094" x="139.8027725280894" y="314.7144067458327" fill="none" height="3.339966087418588"/>
+  <rect width="30.55147915470664" x="1.51021584542778" y="269.8246180042448" fill="none" height="3.288039930759169" id="connector1pad-4-2-3-6-4-3"/>
+  <rect width="31.17892555668891" x="1.492080934129177" y="247.5412269405805" fill="none" height="3.483889457141288" id="connector1pad-0-1-9-9-0-7"/>
+  <rect width="30.67632277536896" x="139.7985300642741" y="336.8248540509135" fill="none" height="3.237310066001214" id="connector1pad-4-2-3-6-2"/>
+  <rect width="3.359171445207494" x="111.7431110541475" y="1.585661131744473" fill="none" height="30.06042551059497" id="connector1pad-4-2-3-6-4"/>
+  <rect width="30.48490588859937" x="139.766597315039" y="292.3926279614794" fill="none" height="3.602056590058453" id="connector1pad-0-1-1-48-09"/>
+  <rect width="30.51960376643515" x="139.7318994372032" y="49.17770760559034" fill="none" height="3.241252168695837" id="connector1pad-4-5-9-4-3"/>
+  <rect width="30.81708350974481" x="139.6182504295745" y="270.318355869449" fill="none" height="3.43280966469456" id="connector1pad-4-2-34-9-3"/>
+  <rect width="30.38210004847818" x="139.8694031551602" y="226.3276190126922" fill="none" height="3.120339222343745" id="connector1pad-4-5-9-4-7"/>
+  <rect width="30.58840309155443" x="139.479269376403" y="49.4252142979131" fill="none" height="3.177576212054021" id="connector1pad-4-5-9-4-8"/>
+  <rect width="30.95389586486803" x="139.6652688101323" y="93.56360667730058" fill="none" height="3.342391131774207" id="connector1pad-4-2-34-9-6"/>
+  <rect width="30.71506364200414" x="139.5364395616342" y="71.3894834155779" fill="none" height="3.456826111783528" id="connector1pad-47-4-0-06"/>
+  <rect width="30.99726821216279" x="139.6218964628375" y="182.0242221717563" fill="none" height="3.304359499852922" id="connector1pad-0-1-9-9-4-3"/>
+  <rect width="30.93534313932787" x="1.49524177303195" y="336.3318058268006" fill="none" height="3.588807778971784" id="connector12"/>
+  <rect width="30.66696670617174" x="1.54705616663361" y="225.3597696706423" fill="none" height="3.273149444455413" id="connector1pad-4-5-0-3-1-3-7"/>
+  <rect width="30.79810118295598" x="1.568249562520293" y="314.2379440015006" fill="none" height="3.354452753409646" id="connector13"/>
+  <rect width="30.42072171105716" x="1.488645416406371" y="291.9957673312266" fill="none" height="3.356760013730536" id="connector14"/>
+  <rect width="30.02311304657525" x="140.0445594213822" y="71.52698713353499" fill="none" height="3.31932239382644" id="connector1pad-47-4-0-0"/>
+  <rect width="31.05064908765343" x="1.163373785151919" y="269.8750120831895" fill="none" height="3.237645851814534" id="connector15"/>
+  <rect width="30.00724144287182" x="139.8766002894047" y="115.4555253688646" fill="none" height="3.510160721923597" id="connector1pad-0-1-1-48-0"/>
+  <rect width="3.535291715701959" x="85.8101800740543" y="368.075677102294" fill="none" height="30.26872356792501" id="connector16"/>
+  <rect width="3.24916847084188" x="111.8531140285131" y="1.504636236184751" fill="none" height="30.14145040615469" id="connector17"/>
+  <rect width="30.90756884714415" x="139.5277650921752" y="159.8674478489516" fill="none" height="3.401445540944252" id="connector1pad-4-2-3-6-2-2"/>
+  <rect width="30.47327674871136" x="139.778226454927" y="93.45360370293489" fill="none" height="3.268563370458963" id="connector1pad-4-2-34-9-32"/>
+  <rect width="31.00892765509659" x="1.36547624092421" y="92.31379993638447" fill="none" height="3.011303686459911" id="connector1pad-4-5-0-3-1-3"/>
+  <rect width="30.40240365782515" x="139.8490995458132" y="248.1717333513178" fill="none" height="3.335913165431464" id="connector1pad-47-4-0-6"/>
+  <rect width="31.03167208918458" x="1.151985028758048" y="72.53640937798159" fill="none" height="3.448698046061793" id="connector1pad-4-5-0-3-1-5"/>
+  <rect width="30.51388396740541" x="139.763091496836" y="336.6476693017031" fill="none" height="3.308033338183634" id="connector1pad-4-2-3-6-2-9"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.99287278395224" x="139.7379863347186" y="314.538158728555" fill="none" height="3.558986834239306" id="connector1pad-4-5-0-39-8"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+  <rect width="30.24641483461517" x="139.623018871973" y="137.6753222532629" fill="none" height="3.140083030057554" id="connector1pad-4-5-0-39-8-2"/>
+  <rect width="30.72874748204612" x="139.4394191419073" y="314.3795509410487" fill="none" height="3.667894730814169" id="connector1pad-4-5-0-39-8-3"/>
+ </g>
+</svg>

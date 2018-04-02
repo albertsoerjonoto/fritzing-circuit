@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="90.398491" version="1.1" xmlns="http://www.w3.org/2000/svg" height="129.58627" id="svg29632">
+ <g id="schematic">
+  <defs id="defs29634"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" showborder="true" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata29637">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+     <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+     <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(-178.86505,-774.18666)">
+   <g style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA" id="text46299" xml:space="preserve"/>
+   <g id="g3425">
+    <rect width="49.732578" x="199.57358" y="793.99652" height="89.774475" style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3467"/>
+    <g id="g4448" transform="translate(-176.50508,25.969549)">
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270" d="m 355.87013,778.53052 19.69797,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-1" d="m 355.87013,799.15449 19.69797,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-7" d="m 355.87013,819.77842 19.69797,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-4" d="m 355.87013,840.40237 19.69797,0"/>
+    </g>
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-0-9" d="m 223.83207,883.57497 0,19.69796"/>
+    <g id="g4468" transform="translate(-176.50508,26.095809)">
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-5" d="m 425.57065,778.40426 19.69797,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-1-4" d="m 425.57065,799.02823 19.69797,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-7-3" d="m 425.57065,819.65216 19.69797,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-4-1" d="m 425.57065,840.27611 19.69797,0"/>
+    </g>
+    <g id="g4898" transform="translate(-179.5,27.696777)">
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550" xml:space="preserve">
+      <text x="381.31717" y="778.78564" id="tspan4552">E1</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-3" xml:space="preserve">
+      <text x="381.32889" y="798.60126" id="tspan4552-8">M1</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-4" xml:space="preserve">
+      <text x="381.32889" y="818.41681" id="tspan4552-4">M1+</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-61" xml:space="preserve">
+      <text x="381.32889" y="838.23242" id="tspan4552-84">M1-</text>
+     </g>
+    </g>
+    <g id="g4953" transform="translate(-176,28)">
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-6" xml:space="preserve">
+      <text x="414.06131" y="778.48242" id="tspan4552-1">E2</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-9" xml:space="preserve">
+      <text x="414.07303" y="799.39911" id="tspan4552-3">M2</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-60" xml:space="preserve">
+      <text x="414.07303" y="820.31573" id="tspan4552-6">M2+</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-96" xml:space="preserve">
+      <text x="414.07303" y="841.23242" id="tspan4552-37">M2-</text>
+     </g>
+    </g>
+    <g id="g4719" transform="translate(-176,28)">
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-0" d="m 389.83207,746.68666 0,19.69796"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4270-0-8" d="m 409.73808,746.68666 0,19.69796"/>
+    </g>
+    <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-91" xml:space="preserve">
+     <text x="211.09061" y="799.98242" id="tspan4552-35">VD</text>
+    </g>
+    <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-98" xml:space="preserve">
+     <text x="230.30545" y="800.48242" id="tspan4552-40">VS</text>
+    </g>
+    <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text4550-7" xml:space="preserve">
+     <text x="219.34061" y="881.23242" id="tspan4552-63">GND</text>
+    </g>
+    <g style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended" id="text3328" xml:space="preserve" transform="matrix(0,1,-1,0,0,0)">
+     <text x="810.55176" y="-228.32841" id="tspan3330">2A DUAL MOTOR </text>
+     <text x="810.55176" y="-219.57841" id="tspan3332"> CONTROLLOR</text>
+    </g>
+   </g>
+  </g>
+  <rect width="8.181818181818201" x="82.29015459090913" y="29.3991956060606" fill="none" height="1.878787878787904" id="connector3"/>
+  <rect width="6.648648648648688" x="83.68573198648649" y="50.0904322972973" fill="none" height="1.891891891891902" id="connector4"/>
+  <rect width="9.027027027027046" x="0.2262725270270352" y="50.0904322972973" fill="none" height="1.675675675675706" id="connector5"/>
+  <rect width="11.83783783783788" x="0.01005631081081049" y="29.11745932432433" fill="none" height="2.540540540540548" id="connector6"/>
+  <rect width="5" x="45.1992455" y="64.79313500000001" fill="none" height="5"/>
+  <rect width="8.250000000000014" x="0.1992455000000035" y="70.79313500000001" fill="none" height="1.75" id="connector8"/>
+  <rect width="9.500000000000014" x="80.9492455" y="70.54313500000001" fill="none" height="2" id="connector9"/>
+  <rect width="8.510204081632665" x="81.87271488775507" y="91.61966561224494" fill="none" height="1.540816326530603" id="connector10"/>
+  <rect width="2.727272727272734" x="33.92651822727275" y="0.06586227272728706" fill="none" height="11.09090909090909" id="connector0"/>
+  <rect width="2.242424242424264" x="43.86591216666666" y="118.4901046969697" fill="none" height="11.45454545454547" id="connector1"/>
+  <rect width="2.606060606060609" x="53.92651822727272" y="-0.150353943488966" fill="none" height="10.84848484848487" id="connector2"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+  <rect width="8.414246183410725" x="0.5420696708658994" y="91.45574856399114" fill="none" height="1.879291959196991" id="connector7"/>
+ </g>
+</svg>

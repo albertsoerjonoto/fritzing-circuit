@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="113.25" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="242.5625" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg13281" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="schematic">
+  <defs id="defs13283"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata13286">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="g3847" transform="translate(-32.96875,0)">
+   <rect width="87.645439" x="57.079269" y="1.5000038" height="239.55318" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3587"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4379" d="m 56.556827,33.244806 -23.575001,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4379-1" d="m 56.556827,88.828355 -23.575001,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4379-7" d="m 56.556827,144.41191 -23.575001,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4379-4" d="m 56.556827,199.99545 -23.575001,0"/>
+   <text x="62.713318" y="38.936283" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4475">VCC</text>
+   <text x="62.754333" y="94.491058" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4475-3">DATA</text>
+   <text x="62.740662" y="150.04922" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4475-7">SCK</text>
+   <text x="62.754333" y="205.60062" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4475-2">GND</text>
+   <text x="52.09293" y="-115.65651" style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4626" transform="matrix(0,1,-1,0,0,0)">SHT1xSENSOR</text>
+  </g>
+  <rect width="22.44427337982444" x="0.03364187498266347" y="31.66731839135755" fill="none" height="3.125310936377133" id="connector3"/>
+  <rect width="22.59317905767736" x="-0.08746902063296602" y="198.4586771315205" fill="none" height="3.23495372069533" id="connector4"/>
+  <rect width="22.39581021913241" x="0.09570557797158585" y="142.8327454121738" fill="none" height="3.187706511413069" id="connector5"/>
+  <rect width="22.4700560882938" x="-0.02379156282648864" y="87.28372465521161" fill="none" height="3.080572205653198" id="connector0"/>
+  <rect width="22.35150181768728" x="0.06172170681148259" y="31.70334895647983" fill="none" height="3.075416061256931" id="connector1"/>
+  <rect width="22.48709250484075" x="-0.04185325492159109" y="198.4320960985018" fill="none" height="3.140593179463565" id="connector2"/>
+ </g>
+</svg>

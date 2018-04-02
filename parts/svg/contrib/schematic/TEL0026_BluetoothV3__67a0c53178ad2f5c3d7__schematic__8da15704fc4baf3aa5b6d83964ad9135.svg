@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="452.87454" version="1.1" xmlns="http://www.w3.org/2000/svg" height="217.59659" id="svg2">
+ <g id="schematic">
+  <defs id="defs4"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata7">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+     <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+     <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(-194.90677,-453.62216)">
+   <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3012" xml:space="preserve"/>
+   <g id="g3144">
+    <rect width="422.36679" x="223.31505" y="455.7207" height="213.37218" style="fill:none;stroke:#000000;stroke-width:4.22078037;stroke-linecap:round;stroke-linejoin:round" id="rect135"/>
+    <g id="g3097" transform="translate(0,14.237004)">
+     <line style="fill:none;stroke:#000000;stroke-width:2.99999547;stroke-linecap:round;stroke-linejoin:round" id="line83" y1="574.99139" x1="196.56984" y2="574.99139" x2="223.14854"/>
+     <line style="fill:none;stroke:#000000;stroke-width:2.99999547;stroke-linecap:round;stroke-linejoin:round" id="line109" y1="548.1698" x1="196.56984" y2="548.1698" x2="223.14854"/>
+     <g id="g19-4" transform="matrix(1.2499981,0,0,1.2499981,-73.60225,371.10592)">
+      <line style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" id="line21-0" y1="120.194" x1="216.138" y2="120.194" x2="237.39799"/>
+     </g>
+     <line style="fill:none;stroke:#000000;stroke-width:2.99999547;stroke-linecap:round;stroke-linejoin:round" id="line109-4" y1="494.52664" x1="196.56984" y2="494.52664" x2="223.14854"/>
+     <g id="g19-4-8" transform="matrix(1.2499981,0,0,1.2499981,-73.60225,317.46272)">
+      <line style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" id="line21-0-8" y1="120.194" x1="216.138" y2="120.194" x2="237.39799"/>
+     </g>
+     <line style="fill:none;stroke:#000000;stroke-width:2.99999547;stroke-linecap:round;stroke-linejoin:round" id="line83-2" y1="628.63458" x1="196.56984" y2="628.63458" x2="223.14854"/>
+     <line style="fill:none;stroke:#000000;stroke-width:2.99999547;stroke-linecap:round;stroke-linejoin:round" id="line109-45" y1="601.81299" x1="196.56984" y2="601.81299" x2="223.14854"/>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3108" xml:space="preserve">
+     <text x="357.14285" y="493.07648" id="tspan3110">DFRobot Bluetooth V3.0</text>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3112" xml:space="preserve">
+     <text x="357.14285" y="540.2193" id="tspan3114">Bluetooth V2.0 +EDR</text>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3116" xml:space="preserve">
+     <text x="229.28571" y="482.36218" id="tspan3118">GND</text>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3120" xml:space="preserve">
+     <text x="230.659" y="511.40982" id="tspan3122">VCC</text>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3124" xml:space="preserve">
+     <text x="228.47272" y="569.49957" id="tspan3126">RXD</text>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3128" xml:space="preserve">
+     <text x="230.43927" y="598.54718" id="tspan3130">TXD</text>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3132" xml:space="preserve">
+     <text x="229.28571" y="627.60034" id="tspan3134">GND</text>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3136" xml:space="preserve">
+     <text x="229.75812" y="656.64795" id="tspan3138">3V3</text>
+    </g>
+    <g style="font-size:22.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text3140" xml:space="preserve">
+     <text x="228.47272" y="540.45746" id="tspan3142">NC</text>
+    </g>
+   </g>
+  </g>
+  <rect width="11.61989906356857" x="-4.866160073369628" y="103.1841340758891" fill="none" height="12.18131515597966" id="connector1pad-4-5-0-39-3"/>
+  <rect width="11.37810081570771" x="-3.651053572511415" y="48.67035236212305" fill="none" height="12.08923211668946" id="connector1pad-0-1-9-9-40"/>
+  <rect width="12.08923211668946" x="-4.362184873493135" y="156.0511788103649" fill="none" height="12.80036341767118" id="connector1pad-4-2-34-77"/>
+  <rect width="10.27405615931471" x="-3.969271518081882" y="22.75140758121015" fill="none" height="10.27405615931471" id="connector1pad-4-5-0-3-1-0"/>
+  <rect width="11.30290233259893" x="-4.844039402523947" y="129.1627197778811" fill="none" height="12.40515769035306" id="connector1pad-0-1-1-7"/>
+  <rect width="12.56637169189105" x="-4.168039735351272" y="181.719887906401" fill="none" height="13.53610620512356" id="connector1pad-47-4-3"/>
+ </g>
+</svg>

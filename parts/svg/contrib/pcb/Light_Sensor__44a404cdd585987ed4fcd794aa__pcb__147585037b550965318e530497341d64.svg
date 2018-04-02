@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="10.824113" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="54.341526" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg3019" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="copper0">
+  <defs id="defs3021"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" showborder="true" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata3024">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(-146.95479,-551.59117)">
+   <rect width="10.192241" x="147.27072" y="551.9071" rx="0.5967558" height="53.709652" style="fill:none;stroke:#ffffff;stroke-width:0.63187253;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3170"/>
+   <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-0-1-1" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,157.59646,581.19159)"/>
+   <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-5-0-39" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,157.59646,572.19174)"/>
+   <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-2-3-6" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,157.59646,563.1919)"/>
+   <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-0-1-9-9" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,157.59646,554.19206)"/>
+   <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-5-0-3-1" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,157.59646,545.19222)"/>
+  </g>
+ </g>
+</svg>

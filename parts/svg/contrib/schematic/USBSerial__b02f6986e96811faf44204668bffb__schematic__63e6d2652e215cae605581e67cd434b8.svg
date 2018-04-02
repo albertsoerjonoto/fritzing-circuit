@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="105.59375" version="1.1" xmlns="http://www.w3.org/2000/svg" height="198.53125" id="svg7593">
+ <g id="schematic">
+  <defs id="defs7595"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" showborder="true" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata7598">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+     <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+     <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="g3860" transform="translate(-29.46875,0.59375)">
+   <rect width="80.447357" x="53.114075" y="0.91815186" height="195.51836" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3107"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3943" d="m 29.470405,63.083227 23.575,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3943-1" d="m 29.470405,136.81527 23.575,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3943-7" d="m 29.470405,173.68127 23.575,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3943-4" d="m 29.470405,26.217216 23.575,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99980307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3943-0" d="m 29.470405,99.94924 23.575,0"/>
+   <text x="57.100464" y="31.054016" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4234">GND</text>
+   <text x="57.059448" y="178.01996" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4242">RXD</text>
+   <text x="56.950073" y="67.794678" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4234-8">5V</text>
+   <text x="57.059448" y="104.53528" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4234-4">RTS</text>
+   <text x="57.086792" y="141.27936" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4234-5">TXD</text>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4479" transform="matrix(0,1,-1,0,0,0)">
+    <text x="39.83551" y="-101.11493" style="font-size:18px" id="tspan3858">USB Serial</text>
+   </g>
+  </g>
+  <rect width="22.14941136176589" x="-0.07415622875356576" y="135.8986245245909" fill="none" height="3.053486077670613" id="connector3"/>
+  <rect width="22.01950710813256" x="-0.07415622875353733" y="172.7914325564485" fill="none" height="3.183390331303883" id="connector4"/>
+  <rect width="22.40921986903251" x="-0.07415622875359418" y="25.22020042901832" fill="none" height="3.053486077670641" id="connector0"/>
+  <rect width="22.07189970339587" x="-0.1265488240168509" y="62.20950036854072" fill="none" height="3.08689842363907" id="connector1"/>
+  <rect width="22.01950710813259" x="-0.07415622875356576" y="99.0058164927334" fill="none" height="3.183390331303912" id="connector2"/>
+ </g>
+</svg>

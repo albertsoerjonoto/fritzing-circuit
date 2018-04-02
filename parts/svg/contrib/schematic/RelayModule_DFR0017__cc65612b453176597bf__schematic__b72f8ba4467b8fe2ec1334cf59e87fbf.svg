@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="177.71181" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="290.72055" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg12160" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="schematic">
+  <defs id="defs12162"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata12165">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="g3029">
+   <g id="g3012">
+    <rect width="108.92158" x="35.252026" y="34.067574" height="221.89258" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect4281"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5106" d="m 143.78277,143.52521 32.42903,0"/>
+    <text x="75.858253" y="50.847279" style="font-size:14.87059689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="tspan5278">VIN</text>
+    <text x="-168.85779" y="136.92673" style="font-size:14.87059689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="tspan5278-0" transform="matrix(0,-1,1,0,0,0)">SIGNAL</text>
+    <text x="72.654198" y="252.83191" style="font-size:14.87059689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="tspan5278-6">GND</text>
+    <text x="39.761402" y="218.31096" style="font-size:14.87059689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="tspan5278-00">NO</text>
+    <text x="39.761402" y="148.47215" style="font-size:14.87059689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="tspan5278-1">NC</text>
+    <text x="39.781731" y="78.63343" style="font-size:14.87059689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="tspan5278-4">IN</text>
+    <text x="76.377785" y="-99.168175" style="font-size:20.81883621px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="tspan5464" transform="matrix(0,1,-1,0,0,0)">RelayModule</text>
+    <text x="76.377785" y="-73.14463" style="font-size:20.81883621px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="tspan5466" transform="matrix(0,1,-1,0,0,0)">DFR0017</text>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5106-1" d="m 88.8559,1.5 0,32.42903"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5106-15" d="m 88.8559,256.79153 0,32.42903"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5106-2" d="m 1.5,74.325154 32.42903,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5106-7" d="m 1.5,143.46926 32.42903,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5106-6" d="m 1.5,212.61336 32.42903,0"/>
+   </g>
+  </g>
+  <rect width="3.002891761774606" x="87.38909429835371" y="1.488208181347289" fill="none" height="31.1932180485716" id="connector1pad-4-5-0-3-1"/>
+  <rect width="30.45222610212574" x="145.8108969370372" y="141.9399652081921" fill="none" height="3.137858488129979" id="connector1pad-0-1-9-9"/>
+  <rect width="3.072201992574293" x="87.34978155322122" y="257.4299322488948" fill="none" height="31.88116749120957" id="connector1pad-4-2-3-6"/>
+  <rect width="32.07880959689439" x="1.568521084397816" y="211.0678815349928" fill="none" height="3.235051287810904" id="connector0"/>
+  <rect width="32.11494319944714" x="1.499799598964358" y="141.8732980066679" fill="none" height="3.196761973064298" id="connector1"/>
+  <rect width="31.83728476851385" x="1.701764778721071" y="73.00708913682422" fill="none" height="3.177228561467643" id="connector2"/>
+ </g>
+</svg>

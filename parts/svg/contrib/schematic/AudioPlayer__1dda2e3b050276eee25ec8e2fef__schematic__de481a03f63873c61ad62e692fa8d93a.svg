@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="226.64037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="443.75" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg3155" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="schematic">
+  <defs id="defs3157"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata3160">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="g3820" transform="translate(-22.797131,-0.375)">
+   <rect width="178.97104" x="47.246429" y="1.8831352" height="440.72742" style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3163"/>
+   <g id="g3814">
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3935" d="m 226.08363,368.53669 23.36753,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3935-3" d="m 225.01418,272.62853 23.36753,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3935-1" d="m 225.01418,176.72035 23.36753,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3935-38" d="m 226.08363,80.812183 23.36753,0"/>
+   </g>
+   <text x="63.395409" y="84.905067" style="font-size:19.57669449px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3012" transform="scale(0.94203889,1.0615273)">+5V</text>
+   <text x="63.175552" y="176.11012" style="font-size:19.57669449px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3015" transform="scale(0.94203889,1.0615273)">GND</text>
+   <text x="62.468193" y="267.21005" style="font-size:19.57669449px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3017" transform="scale(0.94203889,1.0615273)">DI</text>
+   <text x="62.468193" y="358.32907" style="font-size:19.57669449px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3027" transform="scale(0.94203889,1.0615273)">DO</text>
+   <text x="142.30206" y="322.715" style="font-size:19.57669449px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3003">L. Spk</text>
+   <text x="140.11015" y="130.22243" style="font-size:19.57669449px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3006">R. Spk</text>
+   <text x="204.1808" y="181.6911" style="font-size:19.57669449px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCRA" id="tspan3009">-</text>
+   <text x="199.74545" y="87.479309" style="font-size:19.57669449px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCRA" id="tspan3013">+</text>
+   <text x="204.1808" y="373.76617" style="font-size:19.57669449px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCRA" id="tspan3009-7">-</text>
+   <text x="199.74545" y="279.55438" style="font-size:19.57669449px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCRA" id="tspan3013-0">+</text>
+   <text x="103.70818" y="41.766529" style="font-size:27.40737152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3029">Audio</text>
+   <text x="103.70818" y="78.800285" style="font-size:27.40737152px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan3031">player</text>
+   <g id="g3808" transform="translate(23.234631,0)">
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3935-7" d="m 0.62088044,368.53669 23.36753656,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3935-3-4" d="m -0.44856877,272.62853 23.36753677,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3935-1-0" d="m -0.44856877,176.72035 23.36753677,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3935-38-9" d="m 0.62088044,80.812183 23.36753656,0"/>
+   </g>
+  </g>
+  <rect width="22.0902996435151" x="1.098132776417799" y="366.615542645138" fill="none" height="3.023125245518997" id="connector3"/>
+  <rect width="20.98302283376501" x="204.6153139410209" y="174.705018529068" fill="none" height="3.022184653306539" id="connector4"/>
+  <rect width="21.30517161394238" x="205.2699528163233" y="78.72233226013339" fill="none" height="3.393189901546975" id="connector5"/>
+  <rect width="20.82368567936737" x="205.4587396958304" y="366.6040615629652" fill="none" height="3.002975066446254" id="connector6"/>
+  <rect width="20.62919684695351" x="204.7972733125314" y="270.7005469196632" fill="none" height="3.132437793397344" id="connector7"/>
+  <rect width="21.91141138499059" x="0.9963937158286171" y="78.89080052375653" fill="none" height="3.203614431080666" id="connector0"/>
+  <rect width="23.12537257119189" x="-0.1805069595546343" y="174.8410506874614" fill="none" height="3.287767557828971" id="connector1"/>
+  <rect width="23.25490060572805" x="-0.2122127431969005" y="270.6579227471592" fill="none" height="3.287080171500065" id="connector2"/>
+ </g>
+</svg>

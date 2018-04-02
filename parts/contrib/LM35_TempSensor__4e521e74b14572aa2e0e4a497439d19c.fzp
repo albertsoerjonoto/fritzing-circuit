@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.7.1b.03.10.5908" moduleId="33903ca6b7fc45d8984881494d493fe5">
+    <author>DFRobot</author>
+    <title>LM35 TempSensor</title>
+    <label>LM35 TempSensor</label>
+    <date>2011-12-01</date>
+    <tags/>
+    <properties>
+        <property name="family"></property>
+        <property name="part number"></property>
+    </properties>
+    <views>
+        <iconView>
+            <layers image="icon/LM35_TempSensor__67fb2ae08238b0203750b7b__icon__90bc7328b50c22f3fe6c44e95ac4232e.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/LM35_TempSensor__67fb2ae08238b0203750b7b__breadboard__14c9d0cb6769a196a24d270d8e472199.svg">
+                <layer layerId="breadboard"/>
+            </layers>
+        </breadboardView>
+        <pcbView>
+            <layers image="pcb/LM35_TempSensor__67fb2ae08238b0203750b7b__pcb__b819f33a709c1910a7687ccee4021d1e.svg">
+                <layer layerId="copper0"/>
+                <layer layerId="unknown"/>
+                <layer layerId="copper1"/>
+            </layers>
+        </pcbView>
+        <schematicView>
+            <layers image="schematic/LM35_TempSensor__4e521e74b14572aa2e0e4a4__schematic__12a8ece0ec948a0e47a838a9c278b41d.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
+    </views>
+    <connectors>
+        <connector id="connector1pad-4-5-0-3-1" type="male" name="INPUT">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-4-5-0-3-1"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-4-5-0-3-1"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-4-5-0-3-1"/>
+                    <p layer="copper1" svgId="connector1pad-4-5-0-3-1"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-0-1-9-9" type="male" name="POWER">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-0-1-9-9"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-0-1-9-9"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-0-1-9-9"/>
+                    <p layer="copper1" svgId="connector1pad-0-1-9-9"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-4-2-3-6" type="male" name="GND">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-4-2-3-6"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-4-2-3-6"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-4-2-3-6"/>
+                    <p layer="copper1" svgId="connector1pad-4-2-3-6"/>
+                </pcbView>
+            </views>
+        </connector>
+    </connectors>
+</module>

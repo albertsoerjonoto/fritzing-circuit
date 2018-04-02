@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.7.0b.02.01.5801" moduleId="3aac82a50c90c1d4c97eac27f5a58ded">
+    <author>DFRobot</author>
+    <title>MIDIShield</title>
+    <label>MIDIShield</label>
+    <date>2012-02-20</date>
+    <tags/>
+    <properties>
+        <property name="family"></property>
+        <property name="part number"></property>
+    </properties>
+    <views>
+        <iconView>
+            <layers image="icon/MIDIShield__5d7c5741986675a48904260fdae4__icon__dea32a7fb82602574482bf6991cdad0b.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/MIDIShield__5d7c5741986675a48904260fdae4__breadboard__f459dd2c905fd13268e54dffb40ef7f3.svg">
+                <layer layerId="breadboard"/>
+            </layers>
+        </breadboardView>
+        <schematicView>
+            <layers image="schematic/MIDIShield__5d7c5741986675a48904260fdae4__schematic__4d6ec62bbbfe0beabfc7d1c954f5b03d.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
+        <pcbView>
+            <layers image="pcb/MIDIShield__5d7c5741986675a48904260fdae4__pcb__36b2b83ce865e53548ac65fa89368c9a.svg">
+                <layer layerId="copper0"/>
+                <layer layerId="copper1"/>
+            </layers>
+        </pcbView>
+    </views>
+    <connectors>
+        <connector id="connector81" type="male" name="A5">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector81"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector81pin" terminalId="connector81terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector81"/>
+                    <p layer="copper0" svgId="connector81"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector82" type="male" name="AREF">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector82"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector82pin" terminalId="connector82terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector82"/>
+                    <p layer="copper0" svgId="connector82"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector83" type="male" name="D2">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector83"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector83pin" terminalId="connector83terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector83"/>
+                    <p layer="copper0" svgId="connector83"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector84" type="male" name="D3">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector84"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector84pin" terminalId="connector84terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector84"/>
+                    <p layer="copper0" svgId="connector84"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector85" type="male" name="D4">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector85"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector85pin" terminalId="connector85terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector85"/>
+                    <p layer="copper0" svgId="connector85"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector86" type="male" name="D5">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector86"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector86pin" terminalId="connector86terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector86"/>
+                    <p layer="copper0" svgId="connector86"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector87" type="male" name="D6">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector87"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector87pin" terminalId="connector87terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector87"/>
+                    <p layer="copper0" svgId="connector87"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector88" type="male" name="D7">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector88"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector88pin" terminalId="connector88terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector88"/>
+                    <p layer="copper0" svgId="connector88"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector89" type="male" name="D8">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector89"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector89pin" terminalId="connector89terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector89"/>
+                    <p layer="copper0" svgId="connector89"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector100" type="male" name="TX">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector100"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector100pin" terminalId="connector100terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector100"/>
+                    <p layer="copper0" svgId="connector100"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector101" type="male" name="VIN">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector101"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector101pin" terminalId="connector101terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector101"/>
+                    <p layer="copper0" svgId="connector101"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector90" type="male" name="D9">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector90"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector90pin" terminalId="connector90terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector90"/>
+                    <p layer="copper0" svgId="connector90"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector91" type="male" name="D10">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector91"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector91pin" terminalId="connector91terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector91"/>
+                    <p layer="copper0" svgId="connector91"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector92" type="male" name="D11">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector92"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector92pin" terminalId="connector92terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector92"/>
+                    <p layer="copper0" svgId="connector92"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector93" type="male" name="D12">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector93"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector93pin" terminalId="connector93terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector93"/>
+                    <p layer="copper0" svgId="connector93"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector94" type="male" name="D13">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector94"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector94pin" terminalId="connector94terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector94"/>
+                    <p layer="copper0" svgId="connector94"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector95" type="male" name="GND">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector95"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector95pin" terminalId="connector95terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector95"/>
+                    <p layer="copper0" svgId="connector95"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector96" type="male" name="GND">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector96"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector96pin" terminalId="connector96terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector96"/>
+                    <p layer="copper0" svgId="connector96"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector97" type="male" name="GND">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector97"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector97pin" terminalId="connector97terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector97"/>
+                    <p layer="copper0" svgId="connector97"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector98" type="male" name="RST">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector98"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector98pin" terminalId="connector98terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector98"/>
+                    <p layer="copper0" svgId="connector98"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector74" type="male" name="3V3">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector74"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector74pin" terminalId="connector74terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector74"/>
+                    <p layer="copper0" svgId="connector74"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector99" type="male" name="RX">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector99"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector99pin" terminalId="connector99terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector99"/>
+                    <p layer="copper0" svgId="connector99"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector75" type="male" name="5V">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector75"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector75pin" terminalId="connector75terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector75"/>
+                    <p layer="copper0" svgId="connector75"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector76" type="male" name="A0">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector76"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector76pin" terminalId="connector76terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector76"/>
+                    <p layer="copper0" svgId="connector76"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector77" type="male" name="A1">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector77"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector77pin" terminalId="connector77terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector77"/>
+                    <p layer="copper0" svgId="connector77"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector78" type="male" name="A2">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector78"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector78pin" terminalId="connector78terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector78"/>
+                    <p layer="copper0" svgId="connector78"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector79" type="male" name="A3">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector79"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector79pin" terminalId="connector79terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector79"/>
+                    <p layer="copper0" svgId="connector79"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector80" type="male" name="A4">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector80"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector80pin" terminalId="connector80terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector80"/>
+                    <p layer="copper0" svgId="connector80"/>
+                </pcbView>
+            </views>
+        </connector>
+    </connectors>
+	
+	
+	<buses>
+		<bus id="GND" >
+			<nodeMember connectorId="connector95" />
+			<nodeMember connectorId="connector97" />
+			<nodeMember connectorId="connector96" />
+		</bus>
+	</buses>
+</module>

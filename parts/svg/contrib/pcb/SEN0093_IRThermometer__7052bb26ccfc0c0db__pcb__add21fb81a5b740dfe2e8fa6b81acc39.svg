@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="80.156303" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48.09375" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg7347" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="copper0">
+  <defs id="defs7349">
+   <inkscape:path-effect effect="spiro" is_visible="true" id="path-effect6984"/>
+   <inkscape:path-effect effect="spiro" is_visible="true" id="path-effect6980"/>
+  </defs>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata7352">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(-292.9756,-476.88674)">
+   <g id="g3430">
+    <g id="g3421">
+     <g id="g3396">
+      <path style="fill:none;stroke:#ffffff;stroke-opacity:1" id="rect3459" d="m 293.4756,477.38674 0,47.09375 79.1563,0 0,-47.09375 -79.1563,0 z m 72.8125,3.65625 c 0.9942,0 1.7812,0.78715 1.7812,1.78125 0,0.9942 -0.787,1.8125 -1.7812,1.8125 -0.9941,0 -1.8125,-0.8183 -1.8125,-1.8125 0,-0.9941 0.8184,-1.78125 1.8125,-1.78125 z m 0,9 c 0.9942,0 1.7812,0.78715 1.7812,1.78125 0,0.9942 -0.787,1.8125 -1.7812,1.8125 -0.9941,0 -1.8125,-0.8183 -1.8125,-1.8125 0,-0.9941 0.8184,-1.78125 1.8125,-1.78125 z m 0,9 c 0.9942,0 1.7812,0.78715 1.7812,1.78125 0,0.9942 -0.787,1.8125 -1.7812,1.8125 -0.9941,0 -1.8125,-0.8183 -1.8125,-1.8125 0,-0.9941 0.8184,-1.78125 1.8125,-1.78125 z m 0,9 c 0.9942,0 1.7812,0.78715 1.7812,1.78125 0,0.9942 -0.787,1.8125 -1.7812,1.8125 -0.9941,0 -1.8125,-0.8183 -1.8125,-1.8125 0,-0.9941 0.8184,-1.78125 1.8125,-1.78125 z m 0,9 c 0.9942,0 1.7812,0.78715 1.7812,1.78125 0,0.9942 -0.787,1.8125 -1.7812,1.8125 -0.9941,0 -1.8125,-0.8183 -1.8125,-1.8125 0,-0.9941 0.8184,-1.78125 1.8125,-1.78125 z"/>
+      <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" r="1.584" id="connector1pad-0-1-1" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,371.67731,504.457)"/>
+      <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" r="1.584" id="connector1pad-4-5-0-39" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,371.71079,495.42361)"/>
+      <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" r="1.584" id="connector1pad-4-2-3-6" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,371.69963,486.43497)"/>
+      <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" r="1.584" id="connector1pad-0-1-9-9" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,371.69963,477.4574)"/>
+      <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" r="1.584" id="connector1pad-4-5-0-3-1" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(-1.25,0,0,1.25,371.6974,468.43527)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="81.8125" version="1.1" xmlns="http://www.w3.org/2000/svg" height="169.40625" id="svg7347">
+ <g id="schematic">
+  <defs id="defs7349">
+   <inkscape:path-effect effect="spiro" is_visible="true" id="path-effect6984" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"/>
+   <inkscape:path-effect effect="spiro" is_visible="true" id="path-effect6980" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"/>
+  </defs>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata7352">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+     <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+     <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(-514.65625,-381.875)">
+   <rect width="48.575661" x="515.78619" y="383.01031" height="167.11453" style="fill:none;stroke:#000000;stroke-width:2.28200006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3040"/>
+   <g id="g4265">
+    <path style="fill:none;stroke:#000000;stroke-width:2.28188968;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4002" d="m 564.64378,401.35948 31.8198,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.28188968;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4002-1" d="m 564.64378,432.51745 31.8198,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.28188968;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4002-7" d="m 564.64378,463.67545 31.8198,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.28188968;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4002-4" d="m 564.64378,494.83349 31.8198,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.28188968;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4002-0" d="m 564.64378,525.99149 31.8198,0"/>
+   </g>
+   <g id="g4212">
+    <g style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4096" xml:space="preserve">
+     <text x="551.23773" y="405.86456" id="tspan4098">A</text>
+    </g>
+    <g style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4096-7" xml:space="preserve">
+     <text x="551.26508" y="437.0076" id="tspan4098-4">G</text>
+    </g>
+    <g style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4096-2" xml:space="preserve">
+     <text x="551.21039" y="468.15054" id="tspan4098-7">C</text>
+    </g>
+    <g style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4096-79" xml:space="preserve">
+     <text x="551.26508" y="499.29355" id="tspan4098-3">D</text>
+    </g>
+    <g style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4096-1" xml:space="preserve">
+     <text x="551.22406" y="530.43658" id="tspan4098-9">V</text>
+    </g>
+   </g>
+   <g style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4299" xml:space="preserve" transform="matrix(0,1,-1,0,0,0)">
+    <text x="402.39041" y="-532.29541" id="tspan4301">IRThermometer</text>
+   </g>
+  </g>
+  <rect width="31.48494983277593" x="50.80591555183949" y="142.6696801839464" fill="none" height="3.110367892976655" id="connector1pad-0-1-1"/>
+  <rect width="30.88888888888886" x="50.98032407407408" y="18.03645833333334" fill="none" height="3.03703703703701" id="connector1pad-4-5-0-3-1"/>
+  <rect width="31.77777777777777" x="50.98032407407408" y="111.3697916666667" fill="none" height="3.037037037037038" id="connector1pad-4-5-0-39"/>
+  <rect width="31.28888888888889" x="50.8173611111111" y="49.32534722222221" fill="none" height="2.622222222222234" id="connector1pad-0-1-9-9"/>
+  <rect width="31.4666666666667" x="50.8173611111111" y="80.56979166666667" fill="none" height="2.133333333333326" id="connector1pad-4-2-3-6"/>
+ </g>
+</svg>

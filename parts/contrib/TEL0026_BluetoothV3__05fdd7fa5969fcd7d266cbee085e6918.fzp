@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.6.2b.07.11.5217" moduleId="ab693a4d19aa658e03bed765e78e23d5">
+    <author>DFRobot</author>
+    <title>TEL0026-BluetoothV3</title>
+    <label>DFRobot Bluetooth V3</label>
+    <date>2011-11-21</date>
+    <tags>
+        <tag> bluetooth</tag>
+        <tag>DFRobot</tag>
+    </tags>
+    <properties>
+        <property name="family"></property>
+        <property name="part number"></property>
+    </properties>
+    <views>
+        <iconView>
+            <layers image="icon/TEL0026_BluetoothV3__67a0c53178ad2f5c3d7__icon__99ddd4f0c12fd9192f1a82f98da3981b.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/TEL0026_BluetoothV3__67a0c53178ad2f5c3d7__breadboard__8d988454036749478c6d58d0bd54ab8d.svg">
+                <layer layerId="breadboard"/>
+            </layers>
+        </breadboardView>
+        <schematicView>
+            <layers image="schematic/TEL0026_BluetoothV3__67a0c53178ad2f5c3d7__schematic__8da15704fc4baf3aa5b6d83964ad9135.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
+        <pcbView>
+            <layers image="pcb/TEL0026_BluetoothV3__67a0c53178ad2f5c3d7__pcb__056be65c661607ae45ade87a24305527.svg">
+                <layer layerId="copper0"/>
+                <layer layerId="copper1"/>
+            </layers>
+        </pcbView>
+    </views>
+    <connectors>
+        <connector id="connector1pad-0-1-9-9-40" type="male" name="VCC">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-0-1-9-9-40"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-0-1-9-9-40"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-0-1-9-9-40"/>
+                    <p layer="copper1" svgId="connector1pad-0-1-9-9-40"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-4-5-0-39-3" type="male" name="RXD">
+            <description>Recieve Pin</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-4-5-0-39-3"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-4-5-0-39-3"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-4-5-0-39-3"/>
+                    <p layer="copper1" svgId="connector1pad-4-5-0-39-3"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-4-2-34-77" type="male" name="GND">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-4-2-34-77"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-4-2-34-77"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-4-2-34-77"/>
+                    <p layer="copper1" svgId="connector1pad-4-2-34-77"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-4-5-0-3-1-0" type="male" name="GND">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-4-5-0-3-1-0"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-4-5-0-3-1-0"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-4-5-0-3-1-0"/>
+                    <p layer="copper1" svgId="connector1pad-4-5-0-3-1-0"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-0-1-1-7" type="male" name="TXD">
+            <description>Transmit Pin</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-0-1-1-7"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-0-1-1-7"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-0-1-1-7"/>
+                    <p layer="copper1" svgId="connector1pad-0-1-1-7"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-47-4-3" type="male" name="3V3">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-47-4-3"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-47-4-3"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-47-4-3"/>
+                    <p layer="copper1" svgId="connector1pad-47-4-3"/>
+                </pcbView>
+            </views>
+        </connector>
+    </connectors>
+</module>

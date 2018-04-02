@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="Shield">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="13b83f621c4d34bc4c84ec93fb709e20" modelIndex="54413" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/user/2A_MOTOR_SHIELD_9__6b06fe16aacb6b9a105fdeb628cfa77d.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="adafruit_70ea6330283a722a514e4250510efe53_1" modelIndex="54414" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/user/adafruit_70ea6330283a722a514e4250510efe53_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_CAN-Bus_Shield" modelIndex="54415" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun_CAN-Bus_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="54417" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShield" modelIndex="54418" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/ludusProtoShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Motor Shield rev3" modelIndex="54419" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Motor_Shield_rev3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MyoWare_Cable_Shield" modelIndex="54420" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/MyoWare_Cable_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun Load Sensor Combinator" modelIndex="54422" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun Load Sensor Combinator.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MyoWare_Power_Shield" modelIndex="54423" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/MyoWare_Power_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduinoXbeere" modelIndex="54425" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduinoXbeere.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Color-LCD-Shield-v14" modelIndex="54427" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Color-LCD-Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RaspIO_Duino" modelIndex="54429" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/raspio_duino.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PWM-Shield-v12" modelIndex="54430" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/PWM-Shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Joystick_Shield-v14" modelIndex="54432" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Joystick_Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WiFly_Shield-v17" modelIndex="54434" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/WiFly_Shield-v17.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2-(simple)" modelIndex="54436" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel-arduino_galileo_gen2-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SI4735 Shield-v13" modelIndex="54437" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/SI4735 Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB+SHIELD-" modelIndex="54439" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-usb_shield-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_RevB" modelIndex="54441" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerDriver-Shield-v13" modelIndex="54443" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/PowerDriver-Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkcore-pcb-shape" modelIndex="54445" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkcore-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-r3-shield" modelIndex="54447" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino-shield_r3_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Memoire-1.0" modelIndex="54449" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Memoire-1.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp_only" modelIndex="54451" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_uno(rev3)-icsp(1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo-(simple)" modelIndex="54453" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel-arduino_galileo-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-STM811-" modelIndex="54455" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-digitalic-stm811-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ardumoto v13" modelIndex="54457" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Ardumoto v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Ethernet-v11" modelIndex="54458" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino-Ethernet-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MP3 Shield-v13" modelIndex="54460" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/MP3 Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microSD_Shield-v13" modelIndex="54462" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/microSD_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-intel-galileo-half-pcb" modelIndex="54464" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino-intel-galileo-half-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Power Screwshield 1.0a" modelIndex="54466" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Power Screwshield 1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(fix)" modelIndex="54467" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-128" modelIndex="54469" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/jlpcb-128.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberrypi-pcb-shape" modelIndex="54470" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/raspberrypi-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="one_layer_Arduino_Mega_R3_PCB" modelIndex="54472" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino-mega-r3-shield_one_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="54474" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/ProtoShield-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2" modelIndex="54476" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel-arduino_galileo_gen2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI_Shield-v13" modelIndex="54478" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/MIDI_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="54480" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="proto_shield_v6MEGA" modelIndex="54481" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/proto_shield_v6MEGA.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mega_pro-v13" modelIndex="54482" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/mega_pro-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_MotorShield" modelIndex="54484" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_MotorShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Proto_shield_REV3" modelIndex="54485" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Proto_shield_REV3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberrypi-b+-pcb-shape" modelIndex="54487" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/raspberrypi-b+-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="USBHostShield-v13" modelIndex="54489" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/USBHostShield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI Music Shield-v13" modelIndex="54491" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/MIDI Music Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-intel-galileo-pcb" modelIndex="54493" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino-intel-galileo-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xbeeshield-v13" modelIndex="54495" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/xbeeshield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp" modelIndex="54497" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_uno(rev3)-icsp.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Ethernet" modelIndex="54499" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Ethernet.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Pro" modelIndex="54501" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Pro.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cellular shield-v12" modelIndex="54503" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/cellular shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Mega_Rev3_PCB" modelIndex="54505" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino-mega-rev3-shield_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_MEGA_2560-Rev3(fix)" modelIndex="54507" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(iscp)" modelIndex="54509" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(icsp).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GSM-Quectel_updateTID_2_v1.3" modelIndex="54511" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/GSM-Quectel_updateTID_2_v1.3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mega_Shield-v13" modelIndex="54513" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Mega_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="canbus_shield-v12" modelIndex="54515" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/canbus_shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShieldWireless" modelIndex="54517" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/ludusProtoShieldWireless.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPSShield-v15" modelIndex="54518" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/GPSShield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-MINIB--5PIN" modelIndex="54520" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-usb-minib--5pin.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_MIDI_Shield" modelIndex="54522" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun_MIDI_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-lightblue-bean-shield" modelIndex="54524" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/lightblue-bean-shield_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Wireless_SD_v3" modelIndex="54526" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Wireless_SD_v3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Shield_Eth06-PoE" modelIndex="54528" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Shield_Eth06-PoE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Voice Shield-v16" modelIndex="54529" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino Voice Shield-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_Rc1-final" modelIndex="54531" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/blueIOT_Rc1-final.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MonsterMoto-Shield-v12" modelIndex="54532" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/MonsterMoto-Shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MyoWare_Proto_Shield" modelIndex="54533" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/MyoWare_Proto_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="423120090505" modelIndex="54535" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino-shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_BasicIOShield" modelIndex="54537" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_BasicIOShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Touch_Shield-v11" modelIndex="54539" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Touch_Shield-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screwshield-v15" modelIndex="54541" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/screwshield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-Mini-v12" modelIndex="54543" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/ProtoShield-Mini-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo" modelIndex="54545" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel-arduino_galileo.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LeDeuligne1.1" modelIndex="54547" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/LeDeuligne1.1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="54549" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino DUE V02b" modelIndex="54550" path="C:/Program Files/Fritzing/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_DUE_V02b.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="93c3f81a66cc2e1acc063d7a5c7554a7" modelIndex="54552" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/contrib/InputShield__dcb7cfb13269ba098b220eb6884bc327.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3aac82a50c90c1d4c97eac27f5a58ded" modelIndex="54553" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/contrib/MIDIShield__5d7c5741986675a48904260fdae44e9a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d112c6a8b45785c521779689d926bf4a" modelIndex="54554" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/contrib/WiFiShield__f0b08feabb396c1d01e37af63be477ef.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="93c3f81a66cc2e1acc063d7a5c7554a7" modelIndex="54555" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/contrib/InputShield__dcb7cfb13269ba098b220eb6884bc327.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4986c3e8f876427951786ba2e9541d07" modelIndex="54556" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/contrib/LCD_keypad_Shield__70345ec5c84c2e1f4b598c0891713a74.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3aac82a50c90c1d4c97eac27f5a58ded" modelIndex="54557" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/contrib/MIDIShield__5d7c5741986675a48904260fdae44e9a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d112c6a8b45785c521779689d926bf4a" modelIndex="54558" path="C:/Users/alber/OneDrive/Documents/Fritzing/parts/contrib/WiFiShield__f0b08feabb396c1d01e37af63be477ef.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

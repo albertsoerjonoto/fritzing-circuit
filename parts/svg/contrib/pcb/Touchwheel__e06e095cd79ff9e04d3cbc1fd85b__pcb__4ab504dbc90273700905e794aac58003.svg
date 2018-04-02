@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="123.65625" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="12.8125" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg46150" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="copper0">
+  <defs id="defs46152"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" showborder="true" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata46155">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(-296.40625,-733.0625)">
+   <g id="g3033">
+    <g id="g5895" transform="translate(-0.098569,0)">
+     <circle cx="4.3200002" cy="4.3200002" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector0pad-10-8" r="1.584" d="m 5.9040002,4.3200002 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.8748191 0.7091809,-1.584 1.584,-1.584 0.874819,0 1.584,0.7091809 1.584,1.584 z" transform="matrix(0,1.25,1.25,0,403.14415,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-5-7" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,385.14431,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-8-9" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,376.14446,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-0-12-3" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,367.14461,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-5-9-1" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,358.14476,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-47-4-4" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,349.14492,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-2-34-6" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,340.14507,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-0-1-1-2" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,331.14522,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-5-0-39-5" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,322.14537,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-2-3-6-1" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,313.14553,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-0-1-9-9-1" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,304.14568,734.00824)"/>
+     <circle cx="4.3200002" cy="11.52" style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" id="connector1pad-4-5-0-3-1-3" r="1.584" d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z" transform="matrix(0,1.25,1.25,0,295.14584,734.00824)"/>
+    </g>
+    <rect width="122.67857" x="296.89285" y="733.55487" rx="0" ry="0" height="11.810324" style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect5002"/>
+   </g>
+  </g>
+  <rect width="5.652173913043498" x="28.00203804347825" y="3.536684782608688" fill="none" height="5.65217391304347" id="connector1pad-4-2-3-6-1-5"/>
+  <rect width="5.639751552795019" x="64.27532996894411" y="3.478122227151715" fill="none" height="5.623779946761317" id="connector1pad-47-4-4-8"/>
+  <rect width="5.632692933897744" x="100.1713356805601" y="3.595439189189193" fill="none" height="5.437316834907193" id="connector1pad-5-7-0"/>
+  <rect width="5.652173913043527" x="109.219429347826" y="3.449728260869563" fill="none" height="5.65217391304347" id="connector0pad-10-8-4"/>
+  <rect width="5.826086956521749" x="19.13247282608694" y="3.449728260869563" fill="none" height="5.565217391304344" id="connector1pad-0-1-9-9-1-1"/>
+  <rect width="5.565217391304373" x="10.1759510869565" y="3.536684782608688" fill="none" height="5.478260869565219" id="connector1pad-4-5-0-3-1-3-7"/>
+  <rect width="5.739130434782624" x="91.13247282608694" y="3.449728260869591" fill="none" height="5.652173913043441" id="connector1pad-4-8-9-9"/>
+  <rect width="5.739130434782624" x="37.13247282608694" y="3.536684782608717" fill="none" height="5.739130434782567" id="connector1pad-4-5-0-39-5-5"/>
+  <rect width="5.565217391304344" x="55.13247282608694" y="3.536684782608688" fill="none" height="5.565217391304344" id="connector1pad-4-2-34-6-2"/>
+  <rect width="5.565217391304344" x="82.26290760869566" y="3.536684782608688" fill="none" height="5.65217391304347" id="connector1pad-0-12-3-4"/>
+  <rect width="5.565217391304344" x="46.26290760869566" y="3.449728260869563" fill="none" height="5.65217391304347" id="connector1pad-0-1-1-2-4"/>
+  <rect width="5.739130434782595" x="73.21942934782609" y="3.536684782608717" fill="none" height="5.565217391304316" id="connector1pad-4-5-9-1-8"/>
+ </g>
+</svg>

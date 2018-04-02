@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.7.1b.03.10.5908" moduleId="861ab96bbfb1f3570d24851bafc23a6b">
+    <author>DFRobot</author>
+    <title>URM47V32</title>
+    <label>URM47V32</label>
+    <date>2011-12-05</date>
+    <tags/>
+    <properties>
+        <property name="family"></property>
+        <property name="part number"></property>
+    </properties>
+    <views>
+        <iconView>
+            <layers image="icon/URM47V32__992b456c4f8fc60433b6429a0b812b__icon__0a860b4fe2480cb82f0b3ede47e425d1.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/URM47V32__992b456c4f8fc60433b6429a0b812b__breadboard__2e3a7f708a26cee8d388962618d9f4a3.svg">
+                <layer layerId="breadboard"/>
+            </layers>
+        </breadboardView>
+        <pcbView>
+            <layers image="pcb/URM47V32__992b456c4f8fc60433b6429a0b812b__pcb__e06d032d43e90e1b696b928b7c328703.svg">
+                <layer layerId="copper0"/>
+                <layer layerId="copper1"/>
+            </layers>
+        </pcbView>
+        <schematicView>
+            <layers image="schematic/URM47V32__60382df788e9a99a96c6c69ac3f032__schematic__eb152cd4fc12cb9eeba0b1a5b7e83f92.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
+    </views>
+    <connectors>
+        <connector id="connector2pad-2-56-8" type="male" name="+5V">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector2pad-2-56-8"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2pad-2-56-8"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector2pad-2-56-8"/>
+                    <p layer="copper1" svgId="connector2pad-2-56-8"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector2pad-2-3-0" type="male" name="PWM">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector2pad-2-3-0"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2pad-2-3-0"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector2pad-2-3-0"/>
+                    <p layer="copper1" svgId="connector2pad-2-3-0"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector2pad-2-0-6" type="male" name="COMP/TRIG">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector2pad-2-0-6"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2pad-2-0-6"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector2pad-2-0-6"/>
+                    <p layer="copper1" svgId="connector2pad-2-0-6"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-4-5" type="male" name="MOTO">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-4-5"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-4-5"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-4-5"/>
+                    <p layer="copper1" svgId="connector1pad-4-5"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-3-4" type="male" name="nRST">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-3-4"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-3-4"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-3-4"/>
+                    <p layer="copper1" svgId="connector1pad-3-4"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-1" type="male" name="TXD">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-1"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-1"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1pad-1"/>
+                    <p layer="copper1" svgId="connector1pad-1"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector2pad-2-6" type="male" name="RXD">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector2pad-2-6"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2pad-2-6"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector2pad-2-6"/>
+                    <p layer="copper1" svgId="connector2pad-2-6"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector2pad-2-5-8" type="male" name="GND">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector2pad-2-5-8"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2pad-2-5-8"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector2pad-2-5-8"/>
+                    <p layer="copper1" svgId="connector2pad-2-5-8"/>
+                </pcbView>
+            </views>
+        </connector>
+    </connectors>
+</module>

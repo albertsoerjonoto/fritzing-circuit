@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.6.2b.07.11.5217" moduleId="c55741505dd2c935aedbf71f19113b9b">
+    <author>DFRobot</author>
+    <title>RGB RingV3</title>
+    <label>RGB RingV3</label>
+    <date>2011-12-13</date>
+    <tags/>
+    <properties>
+        <property name="family"></property>
+        <property name="part number"></property>
+    </properties>
+    <views>
+        <iconView>
+            <layers image="icon/RGB_RingV3__58effd68fccac6b98d9bb33c81d2__icon__da0818af279e8a7f958b45d0a27e4206.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/RGB_RingV3__58effd68fccac6b98d9bb33c81d2__breadboard__d0f355eea208983f402cdeacf4dae8a1.svg">
+                <layer layerId="breadboard"/>
+            </layers>
+        </breadboardView>
+        <schematicView>
+            <layers image="schematic/RGB_RingV3__58effd68fccac6b98d9bb33c81d2__schematic__dfe8e37bc602ed4ac4a1ccb673e4233e.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
+        <pcbView>
+            <layers image="pcb/RGB_RingV3__58effd68fccac6b98d9bb33c81d2__pcb__43d4a0c2541aa1e15b0f19d9d4e7a454.svg">
+                <layer layerId="copper0"/>
+                <layer layerId="copper1"/>
+            </layers>
+        </pcbView>
+    </views>
+    <connectors>
+        <connector id="connector1pad-7-41" type="male" name="Vin-">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-41"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-41"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-41"/>
+                    <p layer="copper0" svgId="connector1pad-7-41"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-3" type="male" name="SCK">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-3"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-3"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-3"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-3"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-55" type="male" name="A3">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-55"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-55"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-55"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-55"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-4" type="male" name="RES">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-4"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-4"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-4"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-4"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-5" type="male" name="VCC1">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-5"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-5"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-5"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-5"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-6" type="male" name="MOSI">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-6"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-6"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-6"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-6"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-8" type="male" name="VCC2">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-8"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-8"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-8"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-8"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-9" type="male" name="VCC2">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-9"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-9"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-9"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-9"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector0pad-4-3" type="male" name="Vin">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector0pad-4-3"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pad-4-3"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector0pad-4-3"/>
+                    <p layer="copper0" svgId="connector0pad-4-3"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-60-0" type="male" name="GND">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-60-0"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-60-0"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-60-0"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-60-0"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-14" type="male" name="SCL2">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-14"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-14"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-14"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-14"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector0pad-4-7" type="male" name="D2">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector0pad-4-7"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pad-4-7"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector0pad-4-7"/>
+                    <p layer="copper0" svgId="connector0pad-4-7"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector0pad-4" type="male" name="GND">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector0pad-4"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pad-4"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector0pad-4"/>
+                    <p layer="copper0" svgId="connector0pad-4"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-60" type="male" name="SCL1">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-60"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-60"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-60"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-60"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector0pad-5" type="male" name="MISO">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector0pad-5"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pad-5"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector0pad-5"/>
+                    <p layer="copper0" svgId="connector0pad-5"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-64" type="male" name="SDA2">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-64"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-64"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-64"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-64"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3" type="male" name="GND">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-1" type="male" name="D4">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-1"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-1"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-1"/>
+                    <p layer="copper0" svgId="connector1pad-1"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-92" type="male" name="SDA1">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-92"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-92"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-92"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-92"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-49" type="male" name="GND">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-49"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-49"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-49"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-49"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector0" type="male" name="GND">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector0pad"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector0pad"/>
+                    <p layer="copper0" svgId="connector0pad"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7" type="male" name="D8">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7"/>
+                    <p layer="copper0" svgId="connector1pad-7"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1" type="male" name="D3">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad"/>
+                    <p layer="copper0" svgId="connector1pad"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector2" type="male" name="Tx">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector2"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector2"/>
+                    <p layer="copper0" svgId="connector2"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector3" type="male" name="Rx">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector3"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector3"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector3"/>
+                    <p layer="copper0" svgId="connector3"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4-3-55-4" type="male" name="DTR">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4-3-55-4"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4-3-55-4"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4-3-55-4"/>
+                    <p layer="copper0" svgId="connector1pad-7-4-3-55-4"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector4" type="male" name="VCC">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector4"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector4"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector4"/>
+                    <p layer="copper0" svgId="connector4"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1pad-7-4" type="male" name="D7">
+            <description>还没有描述</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pad-7-4"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pad-7-4"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper1" svgId="connector1pad-7-4"/>
+                    <p layer="copper0" svgId="connector1pad-7-4"/>
+                </pcbView>
+            </views>
+        </connector>
+    </connectors>
+	
+	<buses>
+		<bus id="GND" >
+			<nodeMember connectorId="connector1pad-7-4-3-60-0" />
+			<nodeMember connectorId="connector0pad-4" />
+			<nodeMember connectorId="connector1pad-7-4-3" />
+			<nodeMember connectorId="connector1pad-7-4-3-49" />
+			<nodeMember connectorId="connector0" />
+		</bus>
+	</buses>
+	
+</module>

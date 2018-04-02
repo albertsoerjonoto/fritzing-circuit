@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.6.2b.07.11.5217" moduleId="448f5b2a75f52e6fbf9c42d50fb812d9">
+    <author>DFRobot</author>
+    <title>motorcontrollerDRI0002</title>
+    <label>motorcontrollerDRI0002</label>
+    <date>2011-12-01</date>
+    <tags/>
+    <properties>
+        <property name="family"></property>
+        <property name="part number"></property>
+    </properties>
+    <views>
+        <iconView>
+            <layers image="icon/motorcontrollerDRI0002__39103bb4635450fc__icon__25dd93fb02df4f87a1573d0643e88203.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/motorcontrollerDRI0002__39103bb4635450fc__breadboard__403540c7cf927fd38a690b66db3085bd.svg">
+                <layer layerId="breadboard"/>
+            </layers>
+        </breadboardView>
+        <schematicView>
+            <layers image="schematic/motorcontrollerDRI0002__39103bb4635450fc__schematic__3b6ee29eb1887fe006dc1ecae33ee07d.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
+        <pcbView>
+            <layers image="pcb/motorcontrollerDRI0002__39103bb4635450fc__pcb__e8acbda097dfaa0f0a3e2c4a56c48a86.svg">
+                <layer layerId="copper0"/>
+                <layer layerId="unknown"/>
+                <layer layerId="copper1"/>
+            </layers>
+        </pcbView>
+    </views>
+    <connectors>
+        <connector id="connector3" type="male" name="E2">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector3"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector3"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector3"/>
+                    <p layer="copper1" svgId="connector3"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector4" type="male" name="M2">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector4"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector4"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector4"/>
+                    <p layer="copper1" svgId="connector4"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector5" type="male" name="M1">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector5"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector5"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector5"/>
+                    <p layer="copper1" svgId="connector5"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector6" type="male" name="E1">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector6"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector6"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector6"/>
+                    <p layer="copper1" svgId="connector6"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector7" type="male" name="M1-">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector7"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector7"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector7"/>
+                    <p layer="copper1" svgId="connector7"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector8" type="male" name="M1+">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector8"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector8"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector8"/>
+                    <p layer="copper1" svgId="connector8"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector9" type="male" name="M2+">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector9"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector9"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector9"/>
+                    <p layer="copper1" svgId="connector9"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector10" type="male" name="M2-">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector10"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector10"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector10"/>
+                    <p layer="copper1" svgId="connector10"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector0" type="male" name="VD">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector0"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector0"/>
+                    <p layer="copper1" svgId="connector0"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector1" type="male" name="GND">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector1"/>
+                    <p layer="copper1" svgId="connector1"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector id="connector2" type="male" name="VS">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector2"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2"/>
+                </schematicView>
+                <pcbView>
+                    <p layer="copper0" svgId="connector2"/>
+                    <p layer="copper1" svgId="connector2"/>
+                </pcbView>
+            </views>
+        </connector>
+    </connectors>
+</module>

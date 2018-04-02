@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.8828087"
+   x="0in"
+   version="1.2"
+   y="0in"
+   height="27.890614"
+   viewBox="0 0 7.9062502 22.312483"
+   id="svg2"
+   
+   >
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs81" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     
+     
+     
+     
+     id="namedview79"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     
+     
+     
+     
+     
+     
+      />
+  <g
+     id="g3168">
+    <g
+       id="g58"
+       transform="translate(-1.09375,-1.0937679)">
+      <g
+         style="stroke-width:0"
+         id="copper0">
+        <rect
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           id="rect61"
+           height="3.96"
+           y="3.0599999"
+           x="3.0599999"
+           width="3.96" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           
+           
+           
+           
+           d="m 7.02,5.04 c 0,1.0935238 -0.8864762,1.98 -1.98,1.98 -1.0935239,0 -1.9800001,-0.8864762 -1.9800001,-1.98 0,-1.0935239 0.8864762,-1.9800001 1.9800001,-1.9800001 1.0935238,0 1.98,0.8864762 1.98,1.9800001 z"
+           r="1.98"
+           id="connector0pin"
+           cy="5.04"
+           cx="5.04" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           
+           
+           
+           
+           d="m 7.02,12.24 c 0,1.093524 -0.8864762,1.98 -1.98,1.98 -1.0935239,0 -1.9800001,-0.886476 -1.9800001,-1.98 0,-1.093524 0.8864762,-1.98 1.9800001,-1.98 1.0935238,0 1.98,0.886476 1.98,1.98 z"
+           r="1.98"
+           id="connector1pin"
+           cy="12.24"
+           cx="5.04" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           
+           
+           
+           
+           d="m 7.02,19.440001 c 0,1.093523 -0.8864762,1.98 -1.98,1.98 -1.0935239,0 -1.9800001,-0.886477 -1.9800001,-1.98 0,-1.093524 0.8864762,-1.98 1.9800001,-1.98 1.0935238,0 1.98,0.886476 1.98,1.98 z"
+           r="1.98"
+           id="connector2pin"
+           cy="19.440001"
+           cx="5.04" />
+      </g>
+    </g>
+    <g
+       id="g66"
+       transform="translate(-1.09375,-1.0937679)">
+      <g
+         style="stroke-width:0"
+         id="silkscreen">
+        <line
+           style="stroke:#ffffff;stroke-width:0.72000003"
+           id="line69"
+           x2="1.4400001"
+           y2="23.040001"
+           x1="1.4400001"
+           y1="1.4400001" />
+        <line
+           style="stroke:#ffffff;stroke-width:0.72000003"
+           id="line71"
+           x2="8.6400003"
+           y2="23.040001"
+           x1="1.4400001"
+           y1="23.040001" />
+        <line
+           style="stroke:#ffffff;stroke-width:0.72000003"
+           id="line73"
+           x2="8.6400003"
+           y2="1.4400001"
+           x1="8.6400003"
+           y1="23.040001" />
+        <line
+           style="stroke:#ffffff;stroke-width:0.72000003"
+           id="line75"
+           x2="1.4400001"
+           y2="1.4400001"
+           x1="8.6400003"
+           y1="1.4400001" />
+        <line
+           style="stroke:#ffffff;stroke-width:0.36000001"
+           id="line77"
+           x2="8.6400003"
+           y2="8.6400003"
+           x1="1.4400001"
+           y1="8.6400003" />
+      </g>
+    </g>
+  </g>
+</svg>

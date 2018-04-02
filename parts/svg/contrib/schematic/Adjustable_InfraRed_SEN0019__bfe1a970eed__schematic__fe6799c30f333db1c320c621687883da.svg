@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="77.128929"
+   x="0in"
+   version="1.2"
+   y="0in"
+   height="157.87042"
+   viewBox="0 0 61.703127 126.29595"
+   id="svg2"
+   
+   >
+  <metadata
+     id="metadata119">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs117" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     
+     
+     
+     
+     id="namedview115"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     
+     
+     
+     
+     
+     
+      />
+  <g
+     transform="translate(-0.625,-0.50078442)"
+     id="g58">
+    <g
+       id="schematic"
+       style="stroke-width:0">
+      <rect
+         width="1.88"
+         x="20.454"
+         y="1.374"
+         height="9.691"
+         id="connector2pin"
+         style="stroke-width:0" />
+      <rect
+         width="0.85600001"
+         x="20.965"
+         y="1.4069999"
+         height="0.68199998"
+         id="connector2terminal"
+         style="stroke-width:0" />
+      <rect
+         width="9.6929998"
+         x="51.956001"
+         y="62.752998"
+         height="1.877"
+         id="connector0pin"
+         style="stroke-width:0" />
+      <rect
+         width="0.68400002"
+         x="61.575001"
+         y="63.297001"
+         height="0.85799998"
+         id="connector0terminal"
+         style="stroke-width:0" />
+      <rect
+         width="1.88"
+         x="20.455999"
+         y="116.415"
+         height="9.6929998"
+         id="connector1pin"
+         style="stroke-width:0" />
+      <rect
+         width="0.85699999"
+         x="21"
+         y="126.103"
+         height="0.68400002"
+         id="connector1terminal"
+         style="stroke-width:0" />
+      <rect
+         width="39.826"
+         x="1.821"
+         y="21.396999"
+         height="84.769997"
+         id="rect67"
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round" />
+      <line
+         y1="88.497002"
+         x1="26.739"
+         y2="88.497002"
+         x2="15.528"
+         id="line69"
+         style="fill:none;stroke:#000000;stroke-width:1.70079994;stroke-linecap:round;stroke-linejoin:round" />
+      <polygon
+         points="26.739,78.791 21.137,88.497 15.528,78.791 "
+         id="polygon71"
+         style="fill:none;stroke:#000000;stroke-width:1.70079994;stroke-linecap:round;stroke-linejoin:round" />
+      <g
+         id="g73"
+         style="stroke-width:0">
+        <g
+           id="schematic_2_"
+           style="stroke-width:0">
+          <g
+             id="g76"
+             style="stroke-width:0">
+            <polygon
+               points="11.142,36.722 11.875,36.14 12.866,38.882 10.409,37.308 "
+               id="polygon78"
+               style="stroke-width:0" />
+            <path
+               d="m 9.553,37.351 1.275,-1.019 0.732,-0.585 0.543,-0.436 1.729,4.788 -4.279,-2.748 0,0 z"
+               id="path80"
+               
+               style="stroke-width:0" />
+            <path
+               d="M 12.189,38.837 7.488,32.946 C 7.318,32.729 7.351,32.415 7.571,32.242 l 0,0 c 0.213,-0.173 0.53,-0.138 0.701,0.079 l 0,0 4.701,5.893 c 0.172,0.215 0.139,0.53 -0.081,0.703 l 0,0 c -0.09,0.072 -0.203,0.107 -0.313,0.107 l 0,0 c -0.144,0.002 -0.291,-0.064 -0.39,-0.187 l 0,0 z"
+               id="path82"
+               
+               style="stroke-width:0" />
+            <polygon
+               points="14.372,33.814 15.104,33.229 16.096,35.974 13.639,34.399 "
+               id="polygon84"
+               style="stroke-width:0" />
+            <path
+               d="m 12.782,34.443 1.277,-1.019 0.732,-0.582 0.543,-0.438 1.734,4.789 -4.286,-2.75 0,0 z"
+               id="path86"
+               
+               style="stroke-width:0" />
+            <path
+               d="M 15.419,35.929 11.757,31.341 C 11.586,31.124 11.62,30.81 11.838,30.637 l 0,0 c 0.214,-0.172 0.532,-0.136 0.703,0.079 l 0,0 3.66,4.59 c 0.173,0.215 0.138,0.529 -0.08,0.703 l 0,0 c -0.093,0.073 -0.202,0.109 -0.313,0.109 l 0,0 c -0.144,-0.001 -0.29,-0.064 -0.389,-0.189 l 0,0 z"
+               id="path88"
+               
+               style="stroke-width:0" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g90"
+         style="stroke-width:0">
+        <polygon
+           points="15.528,48.688 21.137,38.979 26.739,48.688 "
+           id="polygon92"
+           style="fill:none;stroke:#000000;stroke-width:1.70079994;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           y1="38.979"
+           x1="15.528"
+           y2="38.979"
+           x2="26.739"
+           id="line94"
+           style="fill:none;stroke:#000000;stroke-width:1.70079994;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+      <g
+         id="schematic_3_"
+         style="stroke-width:0">
+        <g
+           id="g97"
+           style="stroke-width:0">
+          <polygon
+             points="32.905,92.72 33.639,92.132 34.63,94.879 32.173,93.305 "
+             id="polygon99"
+             style="stroke-width:0" />
+          <path
+             d="m 31.315,93.346 1.276,-1.017 0.733,-0.588 0.544,-0.438 1.729,4.789 -4.282,-2.746 0,0 z"
+             id="path101"
+             
+             style="stroke-width:0" />
+          <path
+             d="m 33.954,94.835 -4.702,-5.894 c -0.17,-0.214 -0.138,-0.532 0.083,-0.704 l 0,0 c 0.213,-0.17 0.53,-0.139 0.701,0.082 l 0,0 4.702,5.893 c 0.17,0.215 0.139,0.531 -0.082,0.702 l 0,0 c -0.088,0.073 -0.203,0.11 -0.313,0.11 l 0,0 c -0.147,-0.002 -0.29,-0.068 -0.389,-0.189 l 0,0 z"
+             id="path103"
+             
+             style="stroke-width:0" />
+          <path
+             d="m 27.186,94.284 1.277,-1.018 0.732,-0.584 0.542,-0.436 1.734,4.787 -4.285,-2.749 0,0 z"
+             id="path105"
+             
+             style="stroke-width:0" />
+          <path
+             d="m 29.824,95.774 -3.66,-4.588 c -0.171,-0.215 -0.138,-0.533 0.08,-0.704 l 0,0 c 0.215,-0.171 0.534,-0.138 0.705,0.081 l 0,0 3.656,4.588 c 0.173,0.213 0.138,0.527 -0.08,0.699 l 0,0 c -0.09,0.074 -0.202,0.112 -0.313,0.112 l 0,0 c -0.145,-0.004 -0.29,-0.066 -0.388,-0.188 l 0,0 z"
+             id="path107"
+             
+             style="stroke-width:0" />
+        </g>
+      </g>
+      <line
+         y1="63.724998"
+         x1="42.702999"
+         y2="63.724998"
+         x2="61.124001"
+         id="line109"
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         y1="125.581"
+         x1="21.396"
+         y2="107.157"
+         x2="21.396"
+         id="line111"
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         y1="20.158001"
+         x1="21.396"
+         y2="1.735"
+         x2="21.396"
+         id="line113"
+         style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" />
+    </g>
+  </g>
+</svg>

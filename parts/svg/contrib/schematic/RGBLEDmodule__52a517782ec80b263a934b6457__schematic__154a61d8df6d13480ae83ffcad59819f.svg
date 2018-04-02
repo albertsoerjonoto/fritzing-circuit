@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="179.5" version="1.1" xmlns="http://www.w3.org/2000/svg" height="279.09375" id="svg6605">
+ <g id="schematic">
+  <defs id="defs6607"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" showguides="true" fit-margin-right="0"/>
+  <metadata id="metadata6610">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+     <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+     <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="g3870">
+   <rect width="128.8909" x="25.258472" y="25.11887" height="228.7115" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3344"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-9" d="m 179.51191,58.556192 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-5-8" d="m 179.51191,101.75725 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-2-6" d="m 179.51191,144.95829 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-7-5" d="m 179.51191,188.15933 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-6-0" d="m 179.51191,231.36039 -25.3483,0"/>
+   <text x="28.939396" y="62.927155" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588">GSCLK</text>
+   <text x="28.861271" y="105.85788" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-1">XLAT</text>
+   <text x="28.92963" y="148.78619" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-8">SIN</text>
+   <text x="28.939396" y="191.71939" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-3">BLANK</text>
+   <text x="28.92963" y="234.65009" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-4">SCLK</text>
+   <text x="120.34825" y="62.927155" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-2">GSCLK</text>
+   <text x="120.27013" y="105.85788" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-1-1">XLAT</text>
+   <text x="120.33849" y="148.78619" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-8-5">SOUT</text>
+   <text x="120.34825" y="191.71939" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-3-8">BLANK</text>
+   <text x="120.33849" y="234.65009" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4588-4-0">SCLK</text>
+   <path style="fill:none;stroke:#000000;stroke-width:1.14734459;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4867" d="m 58.30372,58.84023 6.999,0 0,54.59129"/>
+   <text x="123.29797" y="-58.918953" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4871" transform="matrix(0,1,-1,0,0,0)">TLC-IN</text>
+   <path style="fill:none;stroke:#000000;stroke-width:1.15514052;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4885" d="m 65.11525,176.09937 0,56.09132 -6.49907,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:1.14414656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4867-7" d="m 120.18463,58.83985 -6.999,0 0,54.2874"/>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4871-3" transform="matrix(0,1,-1,0,0,0)">
+    <text x="115.29761" y="-109.80087" style="font-size:14px" id="tspan4450">TLC-OUT</text>
+   </g>
+   <path style="fill:none;stroke:#000000;stroke-width:1.13877714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4885-5" d="m 113.49809,177.52163 0,54.66868 6.49907,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99973774;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4169" d="m 89.05048,25.340668 0,-25.346981"/>
+   <text x="79.914146" y="36.163635" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan5357">VCC</text>
+   <text x="79.953209" y="250.87573" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan5357-2">GND</text>
+   <text x="62.169403" y="-83.327866" style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan5534" transform="matrix(0,1,-1,0,0,0)">RGB LED</text>
+   <text x="145.19148" y="-83.319077" style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan5536" transform="matrix(0,1,-1,0,0,0)">MODULE</text>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-9-1" d="m 25.350527,58.556189 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-5-8-7" d="m 25.350527,101.75724 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-2-6-4" d="m 25.350527,144.95828 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-7-5-0" d="m 25.350527,188.15933 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4224-6-0-9" d="m 25.350527,231.36039 -25.3483,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99973774;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path4169-4" d="m 91.95524,279.08927 0,-25.34698"/>
+  </g>
+  <rect width="24.07405186544207" x="155.4244437535483" y="229.9028907524309" fill="none" height="3.087908778798692" id="connector15"/>
+  <rect width="23.69067062662606" x="-0.07370826650398499" y="143.4233348168871" fill="none" height="3.085213754112772" id="connector7"/>
+  <rect width="23.79578095745524" x="155.7164440458683" y="186.6037278268233" fill="none" height="3.073724465637042" id="connector16"/>
+  <rect width="23.79336320457895" x="-0.07108779340612159" y="186.6051169960102" fill="none" height="3.088797341162461" id="connector8"/>
+  <rect width="23.62495977851864" x="155.7471436082906" y="143.4390142384376" fill="none" height="3.202744347795459" id="connector17"/>
+  <rect width="23.84854838704408" x="-0.152663509577593" y="229.8421496702485" fill="none" height="3.059095538012343" id="connector9"/>
+  <rect width="23.81638747073487" x="155.708145559472" y="100.2113588555678" fill="none" height="3.014564338931564" id="connector18"/>
+  <rect width="23.92366811972988" x="155.6336503723913" y="56.9339360880559" fill="none" height="3.233500298209236" id="connector19"/>
+  <rect width="3.102214924213001" x="90.53931171040381" y="255.3989121726497" fill="none" height="23.71415866880778" id="connector0"/>
+  <rect width="3.103570640169835" x="90.49018530555193" y="255.482598757857" fill="none" height="23.66595664580518" id="connector1"/>
+  <rect width="3.067114414978107" x="90.54533944040082" y="255.3986883015469" fill="none" height="23.71775369273826" id="connector10"/>
+  <rect width="3.27088738209838" x="87.42733989685422" y="-0.2122142916580003" fill="none" height="24.11632602065475" id="connector2"/>
+  <rect width="3.176945521187093" x="87.45488004805952" y="-0.1504658253168145" fill="none" height="24.14345767634254" id="connector3"/>
+  <rect width="3.063970811483955" x="90.50537121184837" y="255.3649716740941" fill="none" height="23.79643171420787" id="connector11"/>
+  <rect width="3.177395243587995" x="87.43275038404829" y="-0.1611998506738246" fill="none" height="24.17360257412273" id="connector4"/>
+  <rect width="3.258069559270126" x="87.37771543555317" y="-0.08859527454995941" fill="none" height="24.01565324949002" id="connector12"/>
+  <rect width="23.67153071977103" x="-0.471343307517941" y="56.69431297601204" fill="none" height="3.01635224318062" id="connector5"/>
+  <rect width="3.246981965403393" x="87.36831931508229" y="-0.1129292835227886" fill="none" height="23.94212520742636" id="connector13"/>
+  <rect width="23.49041087201354" x="0.1060436936668054" y="100.1853392278232" fill="none" height="3.169594030399225" id="connector6"/>
+  <rect width="3.241727535579287" x="87.37036096933807" y="0.0008421624955303741" fill="none" height="24.03470424031843" id="connector14"/>
+ </g>
+</svg>

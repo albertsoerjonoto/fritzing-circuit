@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="227.59375" version="1.1" xmlns="http://www.w3.org/2000/svg" height="658.9375" id="svg7242">
+ <g id="schematic">
+  <defs id="defs7244"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata7247">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+     <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+     <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3870" xml:space="preserve"/>
+  <g id="g3902" transform="translate(-41.40625,-39.625)">
+   <rect width="181.42857" x="64.868294" y="63.200653" rx="0.53571427" ry="0.8035714" height="611.42859" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect5304"/>
+   <text x="216.81284" y="112.21101" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-3-6">D0</text>
+   <text x="219.00717" y="143.61627" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-1-7">D1</text>
+   <text x="216.9769" y="175.32228" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-38-8">D2</text>
+   <text x="216.99057" y="206.88478" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-2-9">D3</text>
+   <text x="216.43686" y="238.35841" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-93-3">D4</text>
+   <text x="216.93588" y="269.86618" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-8-9">D5</text>
+   <text x="216.79916" y="301.57224" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-5-4">D6</text>
+   <text x="216.82651" y="332.99112" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-28-7">D7</text>
+   <text x="216.86752" y="364.71085" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-3-6-3">D8</text>
+   <text x="216.84018" y="396.25967" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-1-7-1">D9</text>
+   <text x="209.1019" y="427.83578" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-38-8-4">D10</text>
+   <text x="211.29623" y="459.24106" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-2-9-0">D11</text>
+   <text x="209.26596" y="490.94711" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-93-3-7">D12</text>
+   <text x="209.27963" y="522.50952" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-8-9-7">D13</text>
+   <text x="226.42416" y="552.04175" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-5-4-6">+</text>
+   <text x="229.48666" y="579.82397" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-28-7-1">-</text>
+   <text x="226.42416" y="615.16669" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-5-4-6-1">+</text>
+   <text x="229.48666" y="642.94891" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-28-7-1-0">-</text>
+   <g id="g3850" transform="translate(42,0)">
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317" d="m 22.975282,106.20084 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-0" d="m 22.975282,137.67363 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-8" d="m 22.975282,169.14641 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-7" d="m 22.975282,200.61921 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-78" d="m 22.975282,232.09201 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-3" d="m 22.975282,263.56479 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-83" d="m 22.975282,295.0376 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-71" d="m 22.975282,389.45598 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-07" d="m 22.975282,420.92876 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-34" d="m 22.975282,357.98316 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-9" d="m 22.975282,326.51039 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-6" d="m 22.975282,515.34713 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-1" d="m 22.975282,578.29273 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-09" d="m 22.975282,546.81993 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-96" d="m 22.975282,483.87435 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-834" d="m 22.975282,452.40155 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-84" d="m 22.975282,609.76551 -23.57503796,0"/>
+    <path style="fill:none;stroke:#000000;stroke-width:2.99976492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-99" d="m 22.975282,641.23831 -23.57503796,0"/>
+   </g>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-55" d="m 268.99232,106.20084 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-0-3" d="m 268.99232,137.67363 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-8-3" d="m 268.99232,169.14641 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-7-3" d="m 268.99232,200.61921 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-78-7" d="m 268.99232,232.09201 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-3-4" d="m 268.99232,263.56479 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-83-3" d="m 268.99232,295.0376 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-71-8" d="m 268.99232,389.45598 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-07-0" d="m 268.99232,420.92876 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-34-8" d="m 268.99232,357.98316 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-9-8" d="m 268.99232,326.51039 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-6-0" d="m 268.99232,515.34713 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-5-6" d="m 268.99232,546.81993 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-09-1" d="m 268.99232,578.29272 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-96-9" d="m 268.99232,483.87435 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-834-8" d="m 268.99232,452.40155 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-84-9" d="m 268.99232,609.76551 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.99976516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path5317-99-7" d="m 268.99232,641.23831 -23.57504,0"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.9997797;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path7760" d="m 101.1391,63.205438 0,-23.575023"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.9997797;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path7760-9" d="m 156.23358,63.205438 0,-23.575023"/>
+   <path style="fill:none;stroke:#000000;stroke-width:2.9997797;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path7760-0" d="m 211.32807,63.205438 0,-23.575023"/>
+   <text x="92.725372" y="76.842636" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7910">3V3</text>
+   <text x="204.86819" y="76.699081" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7914">5V</text>
+   <text x="145.58249" y="76.699081" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7918">VIN</text>
+   <text x="73.381073" y="112.0948" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089">AREF</text>
+   <text x="72.020721" y="143.37885" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-9">RST</text>
+   <text x="73.381073" y="331.19229" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-3">A0</text>
+   <text x="73.381073" y="362.50363" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-1">A1</text>
+   <text x="73.381073" y="393.85605" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-38">A2</text>
+   <text x="73.381073" y="425.08878" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-2">A3</text>
+   <text x="73.381073" y="456.41379" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-93">A4</text>
+   <text x="73.381073" y="487.63974" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-8">A5</text>
+   <text x="73.381073" y="518.99207" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-5">A6</text>
+   <text x="73.381073" y="550.3103" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-28">A7</text>
+   <text x="72.670135" y="174.67995" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-24">SCL</text>
+   <text x="72.670135" y="205.98103" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-6">SDA</text>
+   <text x="72.020721" y="237.2787" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-00">DTR</text>
+   <text x="72.020721" y="268.57986" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-00-6">RX</text>
+   <text x="73.244354" y="299.88095" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-00-66">TX</text>
+   <text x="73.540924" y="616.54297" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-5-4-6-5">+</text>
+   <text x="72.820526" y="586.8775" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-28-7-1-5">M-VIN</text>
+   <text x="74.606293" y="645.93353" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan6089-28-7-1-5-1">-</text>
+   <text x="81.043915" y="632.13678" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7994">M1</text>
+   <text x="217.83295" y="625.77826" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7998">M2</text>
+   <text x="152.7999" y="568.19958" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan8002">SERVO-PWR</text>
+   <text x="139.15396" y="666.62921" style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan8295">GND</text>
+   <text x="247.8998" y="-162.98856" style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan8303" transform="matrix(0,1,-1,0,0,0)">DFRobot</text>
+   <g style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan8305" transform="matrix(0,1,-1,0,0,0)">
+    <text x="247.8998" y="-117.98856" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan4036">RoMeo V1.1</text>
+   </g>
+   <g style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7910-1">
+    <text x="249.85001" y="197.45314" style="font-size:7px" id="tspan3880">PWM</text>
+   </g>
+   <text x="249.85001" y="260.48343" style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7910-1-9">PWM</text>
+   <g style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7910-1-2">
+    <text x="249.85001" y="291.5549" style="font-size:7px" id="tspan3882">PWM</text>
+   </g>
+   <text x="249.85001" y="386.76913" style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7910-1-0">PWM</text>
+   <text x="249.85001" y="418.91202" style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7910-1-91">PWM</text>
+   <text x="249.85001" y="450.19772" style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="tspan7910-1-1">PWM</text>
+   <path style="fill:none;stroke:#000000;stroke-width:2.9997797;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path7760-0-5" d="m 152.83025,698.5661 0,-23.57502"/>
+  </g>
+  <rect width="3.94843185224957" x="58.02140982130905" y="1.784947063965035" fill="none" height="22.19537226743853" id="connector3"/>
+  <rect width="21.1656575439315" x="206.4596725234063" y="285.4032169814288" fill="none" height="3.090434673218965" id="connector20"/>
+  <rect width="4.202325058026986" x="167.3688246371036" y="0.9090636085089727" fill="none" height="20.25883259461608" id="connector4"/>
+  <rect width="21.5108917469891" x="206.3465623631433" y="253.954821221136" fill="none" height="2.902023932603186" id="connector21"/>
+  <rect width="5.565420966202453" x="109.060708741283" y="635.3606117841568" fill="none" height="21.69334094767442" id="connector5"/>
+  <rect width="21.25075428775691" x="206.4200719402667" y="222.4536133588615" fill="none" height="3.059783732658275" id="connector22"/>
+  <rect width="4.028235293855687" x="109.8118874740015" y="637.4083891369048" fill="none" height="18.47671201707885" id="connector6"/>
+  <rect width="4.159408391921602" x="112.8949393998913" y="2.105931417000591" fill="none" height="21.32704268761358" id="connector7"/>
+  <rect width="21.05444081936105" x="206.5216681755395" y="190.9661025020547" fill="none" height="3.150781954961531" id="connector23"/>
+  <rect width="21.75994540270568" x="-0.03421552675692396" y="285.4541972469718" fill="none" height="3.082274922141266" id="connector8"/>
+  <rect width="21.56548458016135" x="206.2072398397914" y="159.4052847683557" fill="none" height="2.91862556308979" id="connector24"/>
+  <rect width="21.8051107177206" x="0.002796603747611925" y="316.8389001568489" fill="none" height="3.210556949145939" id="connector9"/>
+  <rect width="21.14420447654294" x="206.5696576683114" y="128.0198395964163" fill="none" height="3.20793702074053" id="connector25"/>
+  <rect width="20.978953021785" x="206.6106481823905" y="96.61179946104301" fill="none" height="2.989752842657254" id="connector26"/>
+  <rect width="20.49101057170788" x="205.6056210214227" y="65.40498250066389" fill="none" height="2.507751698077414" id="connector27"/>
+  <rect width="2.86854727438606" x="167.0843952006918" y="1.506201783947802" fill="none" height="20.14084220601495" id="connector28"/>
+  <rect width="2.298627071397533" x="111.1862672129982" y="637.189449408779" fill="none" height="18.94782546123338" id="connector29"/>
+  <rect width="22.12534494998749" x="0.03330096155568185" y="127.9868276185687" fill="none" height="3.106464440700904" id="connector30"/>
+  <rect width="22.14303875114877" x="0.2279791177791424" y="159.5500442106629" fill="none" height="3.10879761790261" id="connector31"/>
+  <rect width="2.517326026114233" x="109.7458459952266" y="638.1518881640212" fill="none" height="15.18089843866574" id="connector32"/>
+  <rect width="4.415122692501683" x="167.4189041160375" y="4.238250513108653" fill="none" height="16.22531965240614" id="connector33"/>
+  <rect width="22.01089689286425" x="0.1248595331420859" y="190.8187875898787" fill="none" height="3.394621417733617" id="connector34"/>
+  <rect width="22.10762149316494" x="-0.1307843864617553" y="222.5547680893628" fill="none" height="2.863534576100506" id="connector35"/>
+  <rect width="22.57629770712865" x="-0.1276212163360242" y="253.9250238003189" fill="none" height="3.160800512361618" id="connector36"/>
+  <rect width="19.97226137902356" x="206.6324633233574" y="600.1088063191716" fill="none" height="3.960483115352304" id="connector37"/>
+  <rect width="20.34368619858992" x="207.4359844921393" y="568.7322723743362" fill="none" height="3.038631797192466" id="connector38"/>
+  <rect width="5" x="113.796875" y="329.46875" fill="none" height="5"/>
+  <rect width="21.84800657040992" x="0.1084073603829836" y="348.2435702290573" fill="none" height="3.140781444446759" id="connector10"/>
+  <rect width="22.02809759946513" x="-0.106494961171876" y="379.7609292273561" fill="none" height="3.095456097790247" id="connector11"/>
+  <rect width="21.91895282765049" x="-0.03158326925807842" y="411.2912188512594" fill="none" height="3.021981428668994" id="connector12"/>
+  <rect width="21.8558004540117" x="0.1541781881218753" y="442.7005036855349" fill="none" height="3.021307667845804" id="connector13"/>
+  <rect width="21.25138585958536" x="206.3589848689158" y="474.1473718383523" fill="none" height="2.795470570686177" id="connector14"/>
+  <rect width="21.30932104316011" x="206.3344317184354" y="442.6684745522022" fill="none" height="3.224580914906369" id="connector15"/>
+  <rect width="21.07758368128003" x="206.5315396907495" y="411.2888505663076" fill="none" height="3.040301667599124" id="connector16"/>
+  <rect width="21.37765278606901" x="206.260415059417" y="379.8752952497825" fill="none" height="3.14096420988011" id="connector17"/>
+  <rect width="21.35800227716231" x="206.6434304169797" y="348.2491126770037" fill="none" height="2.914551580207331" id="connector18"/>
+  <rect width="20.96414169662558" x="206.5651564680793" y="316.8616397872703" fill="none" height="2.983425414715612" id="connector19"/>
+  <rect width="21.84944688188506" x="-0.0680249373755828" y="474.1415575670974" fill="none" height="3.274853059590782" id="connector0"/>
+  <rect width="21.92016425484351" x="-0.08152373494723975" y="505.5111345363819" fill="none" height="3.314660934402468" id="connector1"/>
+  <rect width="21.92305831187616" x="-0.04643466262811558" y="96.38951736933097" fill="none" height="3.357888638362738" id="connector2"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+  <rect width="21.3034461196242" x="1.374178461755378" y="599.5634232868836" fill="none" height="3.953665849422691" id="connector39"/>
+  <rect width="22.01392031478065" x="-0.2203686658782829" y="567.9273400793904" fill="none" height="3.770061446991235" id="connector40"/>
+  <rect width="22.0666217428778" x="-0.1897297551024337" y="537.0414315491161" fill="none" height="3.010752562011703" id="connector41"/>
+  <rect width="2.825944671794503" x="110.5593154325634" y="637.2149454870169" fill="none" height="17.77234525823781" id="connector42"/>
+  <rect width="21.05525878846311" x="206.4336724806363" y="505.5984910762862" fill="none" height="3.209700825544758" id="connector43"/>
+  <rect width="20.93923759347305" x="206.4868642312925" y="537.1837328988989" fill="none" height="3.118013282992251" id="connector44"/>
+  <rect width="20.87301587301587" x="0.9103649192508385" y="64.86975250626568" fill="none" height="3.968253968253976" id="connector45"/>
+  <rect width="3.29635989888564" x="109.9178757440477" y="637.0398485430242" fill="none" height="19.97977571292813" id="connector46"/>
+ </g>
+</svg>

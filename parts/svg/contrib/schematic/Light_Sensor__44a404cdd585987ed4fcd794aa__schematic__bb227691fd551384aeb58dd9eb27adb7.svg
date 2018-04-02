@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="82.628014" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="122.32522" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="schematic">
+  <defs id="defs4"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata7">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="matrix(1.2935892,0,0,1.2627119,-127.13556,-460.81092)">
+   <g id="g3014">
+    <g id="g3277">
+     <rect width="25.527046" x="117.37485" y="386.77298" height="51.907192" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.10975373;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3061"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1.25886166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3831" d="m 128.26391,386.32253 0,-21.38108"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1.25886166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3833" d="m 128.26391,439.20086 0,22.62056"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1.25886166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3835" d="m 143.25411,411.42206 18.91723,0"/>
+     <g style="font-size:5.03544664px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3837" xml:space="preserve" transform="scale(1.0259458,0.97471036)">
+      <text x="121.65347" y="400.61786" style="font-size:3.77658486px" id="tspan3839">Vcc</text>
+     </g>
+     <g style="font-size:7.55316973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3837-4" xml:space="preserve" transform="matrix(0,-0.97471036,1.0259458,0,0,0)">
+      <text x="-425.74356" y="137.66782" style="font-size:3.77658486px" id="tspan3839-4">ADD</text>
+     </g>
+     <g style="font-size:7.55316973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3837-0" xml:space="preserve" transform="scale(1.0259458,0.97471036)">
+      <text x="121.8654" y="448.65106" style="font-size:3.77658486px" id="tspan3839-6">GND</text>
+     </g>
+     <g style="font-size:5.03544664px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3043" xml:space="preserve" transform="matrix(0,0.97471036,-1.0259458,0,0,0)">
+      <text x="413.02765" y="-128.51924" id="tspan3045">Light</text>
+      <text x="413.02765" y="-122.22493" id="tspan3059">Sensor</text>
+     </g>
+     <path style="fill:none;stroke:#000000;stroke-width:1.25886166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3835-1" d="m 98.275361,397.64244 18.917239,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1.25886166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3835-7" d="m 98.275361,424.76999 18.917229,0"/>
+     <g style="font-size:7.55316973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3837-4-4" xml:space="preserve" transform="matrix(0,0.97471036,-1.0259458,0,0,0)">
+      <text x="406.07501" y="-116.11018" style="font-size:3.77658486px" id="tspan3839-4-0">SCL</text>
+     </g>
+     <g style="font-size:7.55316973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3837-4-9" xml:space="preserve" transform="matrix(0,0.97471036,-1.0259458,0,0,0)">
+      <text x="432.76132" y="-115.98711" style="font-size:3.77658486px" id="tspan3839-4-4">SDA</text>
+     </g>
+    </g>
+   </g>
+   <g style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans" id="text3871" xml:space="preserve" transform="translate(94.115949,352.67371)"/>
+  </g>
+  <rect width="11.63292869395991" x="70.68651874526785" y="57.62702988251408" fill="none" height="2.386026848227402" id="connector1pad-0-1-1"/>
+  <rect width="2.657994549572528" x="37.77842688251402" y="-0.3020905039864203" fill="none" height="14.35260570741059" id="connector1pad-4-5-0-3-1"/>
+  <rect width="12.99276720068526" x="-0.5690190071412147" y="74.48902736590858" fill="none" height="2.114059146882312" id="connector1pad-4-5-0-39"/>
+  <rect width="2.929962250917562" x="37.50645918116899" y="108.4849900340426" fill="none" height="14.35260570741068" id="connector1pad-0-1-9-9"/>
+  <rect width="12.99276720068526" x="-0.5690190071412147" y="40.49306469777446" fill="none" height="2.114059146882369" id="connector1pad-4-2-3-6"/>
+ </g>
+</svg>

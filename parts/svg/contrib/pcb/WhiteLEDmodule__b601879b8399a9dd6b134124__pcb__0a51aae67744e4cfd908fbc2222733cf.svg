@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="24.554123" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns="http://www.w3.org/2000/svg" height="15.19047" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g id="copper0">
+  <defs id="defs4"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" showborder="true" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata7">
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(-114.92138,-399.64366)">
+   <g id="g3024" transform="translate(-0.58240605,-18.59969)">
+    <g id="g75" transform="matrix(1.2499997,0,0,1.2499997,114.37879,414.19335)">
+     <g style="stroke-width:0" id="g77">
+      <circle cx="3.5999999" cy="8.2080002" style="fill:none;stroke:#ffbf00;stroke-width:1.44000006" r="1.98" id="circle80" d="m 5.5799999,8.2080002 c 0,1.0935238 -0.8864762,1.9799998 -1.98,1.9799998 -1.0935238,0 -1.98,-0.886476 -1.98,-1.9799998 0,-1.0935238 0.8864762,-1.98 1.98,-1.98 1.0935238,0 1.98,0.8864762 1.98,1.98 z"/>
+      <circle cx="10.8" cy="8.2080002" style="fill:none;stroke:#ffbf00;stroke-width:1.44000006" r="1.98" id="circle82" d="M 12.78,8.2080002 C 12.78,9.301524 11.893524,10.188 10.8,10.188 c -1.0935236,0 -1.9799998,-0.886476 -1.9799998,-1.9799998 0,-1.0935238 0.8864762,-1.98 1.9799998,-1.98 1.093524,0 1.98,0.8864762 1.98,1.98 z"/>
+      <circle cx="10.8" cy="8.2080002" style="fill:none;stroke:#ffbf00;stroke-width:1.44000006" r="1.98" id="circle82-1" d="M 12.78,8.2080002 C 12.78,9.301524 11.893524,10.188 10.8,10.188 c -1.0935236,0 -1.9799998,-0.886476 -1.9799998,-1.9799998 0,-1.0935238 0.8864762,-1.98 1.9799998,-1.98 1.093524,0 1.98,0.8864762 1.98,1.98 z" transform="translate(7.0433028,-0.02233172)"/>
+     </g>
+    </g>
+    <g id="g521" transform="matrix(1.2499997,0,0,1.2499997,114.37879,414.19335)">
+     <g style="stroke-width:0" id="g523">
+      <line style="stroke:#ffffff;stroke-width:0.72000003" id="line7" y1="3.5999999" y2="3.5999999" x1="5.7600002" x2="15.84"/>
+      <path style="fill:none;stroke:#ffffff;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path2413" d="M 16.7479,11.2431 A 6.11073,3.79092 0 0 1 4.52687,11.2864"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <rect width="6.842105263157864" x="-0.05376556766916174" y="2.723054548872168" fill="none" height="6.902255639097748" id="connector1pad-4-5-0-3-1"/>
+  <rect width="6.771736107576631" x="9.039159978889527" y="2.775880170618845" fill="none" height="6.849430017351071" id="connector1pad-0-1-9-9"/>
+  <rect width="6.902255639097689" x="17.81089608646619" y="2.723054548872196" fill="none" height="6.90225563909772" id="connector1pad-4-2-3-6"/>
+ </g>
+</svg>

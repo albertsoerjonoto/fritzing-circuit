@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="126.875" version="1.1" xmlns="http://www.w3.org/2000/svg" height="93" id="svg39910">
+ <g id="schematic">
+  <defs id="defs39912"/>
+  <sodipodi:namedview fit-margin-top="0" fit-margin-left="0" showgrid="false" fit-margin-bottom="0" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" pagecolor="#ffffff" bordercolor="#666666" id="base" borderopacity="1.0" fit-margin-right="0"/>
+  <metadata id="metadata39915">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+     <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+     <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <g id="layer1" transform="translate(658.21875,-1552.9688)">
+   <g id="g3327">
+    <rect width="79.792641" x="-634.36017" y="1553.501" height="91.935501" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.08595264;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3168"/>
+    <g id="g3109" transform="translate(0,14)">
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938" d="m -657.67857,1564.8265 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-5" d="m -657.67857,1575.3801 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-51" d="m -657.67857,1585.9338 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-7" d="m -657.67857,1596.4874 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-1" d="m -657.67857,1607.0411 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-15" d="m -658.21428,1617.5947 23.75,0"/>
+    </g>
+    <g id="g3169" transform="translate(0,14)">
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-76" d="m -555.08929,1564.8265 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-14" d="m -555.08929,1575.3801 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-23" d="m -555.08929,1585.9338 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-22" d="m -555.08929,1596.4874 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-16" d="m -555.08929,1607.0411 23.75,0"/>
+     <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path3938-8" d="m -555.08929,1617.5947 23.75,0"/>
+    </g>
+    <g id="g3079" transform="translate(0,14)">
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144" xml:space="preserve">
+      <text x="-631.54865" y="1567.2908" id="tspan4146">GND</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-2" xml:space="preserve">
+      <text x="-631.54865" y="1577.7118" id="tspan4146-6">MOSI/SDA</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-0" xml:space="preserve">
+      <text x="-631.5545" y="1588.127" id="tspan4146-1">STBY</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-6" xml:space="preserve">
+      <text x="-631.56036" y="1598.5479" id="tspan4146-5">LOCK</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-1" xml:space="preserve">
+      <text x="-631.56036" y="1608.963" id="tspan4146-2">AMODE</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-00" xml:space="preserve">
+      <text x="-631.73309" y="1619.3811" id="tspan4146-14">SCL</text>
+     </g>
+    </g>
+    <g id="g3139" transform="translate(0,12)">
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-7" xml:space="preserve">
+      <text x="-575.90149" y="1598.1547" id="tspan4146-54">X_OUT</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-7-7" xml:space="preserve">
+      <text x="-575.90149" y="1587.7175" id="tspan4146-54-7">Y_OUT</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-7-3" xml:space="preserve">
+      <text x="-575.90149" y="1577.6567" id="tspan4146-54-3">Z-OUT</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-7-5" xml:space="preserve">
+      <text x="-568.68274" y="1567.2211" id="tspan4146-54-9">VCC</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-7-0" xml:space="preserve">
+      <text x="-590.39465" y="1608.964" id="tspan4146-54-38">MISO/ADDR</text>
+     </g>
+     <g style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text4144-7-01" xml:space="preserve">
+      <text x="-568.6593" y="1619.3997" id="tspan4146-54-2">CSN</text>
+     </g>
+    </g>
+    <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3258" xml:space="preserve">
+     <text x="-610.35712" y="1567.7192" id="tspan3260">SD740</text>
+    </g>
+   </g>
+  </g>
+  <rect width="11.89241917502789" x="0.3143115942028842" y="35.71739130434784" fill="none" height="1.603121516164968" id="connector1pad-0-1-9-9-0"/>
+  <rect width="11" x="116.4375" y="46.29999999999998" fill="none" height="1.399999999999998" id="connector1pad-4-2-3-6-4-6"/>
+  <rect width="12.19999999999999" x="115.2375" y="25.10000000000003" fill="none" height="1.599999999999987" id="connector1pad-4-5-0-3-1-3-2"/>
+  <rect width="13.4" x="0.03750000000002273" y="56.49999999999999" fill="none" height="2.199999999999995" id="connector1pad-4-5-0-39-4"/>
+  <rect width="12.73684210526314" x="0.0690789473684461" y="46.07894736842107" fill="none" height="1.999999999999964" id="connector1pad-4-2-3-6-4"/>
+  <rect width="13.36842105263155" x="0.0690789473684461" y="77.86842105263158" fill="none" height="2.210526315789451" id="connector1pad-4-2-34-7"/>
+  <rect width="13.02173913043475" x="114.3070652173913" y="67.0217391304348" fill="none" height="2.521739130434753" id="connector1pad-0-1-1-4-5"/>
+  <rect width="12.06956521739133" x="114.5679347826087" y="56.668115942029" fill="none" height="1.765217391304325" id="connector1pad-4-5-0-39-4-8"/>
+  <rect width="13.99999999999996" x="-0.2146739130434625" y="66.67391304347827" fill="none" height="2.521739130434781" id="connector1pad-0-1-1-4"/>
+  <rect width="12.10526315789474" x="115.4375" y="77.86842105263158" fill="none" height="1.578947368421012" id="connector1pad-4-2-34-7-3"/>
+  <rect width="11.17391304347828" x="115.2635869565217" y="35.71739130434781" fill="none" height="1.58260869565219" id="connector1pad-0-1-9-9-0-9"/>
+  <rect width="11.80000000000001" x="0.2375000000000113" y="24.70000000000001" fill="none" height="1.999999999999979" id="connector1pad-4-5-0-3-1-3"/>
+ </g>
+</svg>
